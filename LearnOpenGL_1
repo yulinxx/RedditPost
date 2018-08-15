@@ -1,0 +1,1015 @@
+## ◆◆ OpenGL 学习笔记 LearnOpenGL-CN 
+
+[[图片上传失败...(image-6b21eb-1534344352646)]](https://i.redd.it/8mrdpxf0n2711.jpg)
+
+OpenGL 学习 LearnOpenGL-CN
+
+#入门部分
+
+*   [OpenGL](https://learnopengl-cn.github.io/01%20Getting%20started/01%20OpenGL/)
+
+*   [https://learnopengl-cn.github.io/01%20Getting%20started/01%20OpenGL/](https://learnopengl-cn.github.io/01%20Getting%20started/01%20OpenGL/)
+
+*   [创建窗口](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jpcih)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e1jpcih](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jpcih)
+
+*   [你好，窗口](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jpcih)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e1jpcih](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jpcih)
+
+*   [你好，三角形](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1l0lzb)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e1l0lzb](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1l0lzb)
+
+*   [着色器](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jq7y7)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e1jq7y7](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jq7y7)
+
+*   [纹理](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1tny5s)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e1tny5s](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1tny5s)
+
+*   [变换](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1wbkbg)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e1wbkbg](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1wbkbg)
+
+*   [坐标系统](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1wbkbg)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e1wbkbg](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1wbkbg)
+
+*   [摄像机](https://learnopengl-cn.github.io/01%20Getting%20started/09%20Camera/)
+
+*   [https://learnopengl-cn.github.io/01%20Getting%20started/09%20Camera/](https://learnopengl-cn.github.io/01%20Getting%20started/09%20Camera/)
+
+---
+
+#光照部分
+
+*   [颜色](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e23luv7)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e23luv7](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e23luv7)
+
+*   [基础光照](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e28wohe)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e28wohe](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e28wohe)
+
+*   [材质](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e2v7qpe)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e2v7qpe](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e2v7qpe)
+
+*   [光照贴图](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e2xj99n)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e2xj99n](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e2xj99n)
+
+*   [投光物](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e2ztl5w)
+
+*   [https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_学习笔记_learnopenglcn/e2ztl5w](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e2ztl5w)
+
+*   [多光源](https://learnopengl-cn.github.io/02%20Lighting/06%20Multiple%20lights/)
+
+*   [https://learnopengl-cn.github.io/02%20Lighting/06%20Multiple%20lights/](https://learnopengl-cn.github.io/02%20Lighting/06%20Multiple%20lights/)
+
+114 Comments
+
+Share
+
+Edit Post Save Hide
+
+119 Views100% Upvoted
+
+This thread has been locked by the moderators of r/yulinxx
+
+New comments cannot be posted
+
+SORT BY
+
+OLD
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jfi9j/)·edited 22 days ago
+
+# [旧版链接: http://learnopengl-cn.readthedocs.io/zh/latest/](http://learnopengl-cn.readthedocs.io/zh/latest/)
+
+## [新版链接: https://learnopengl-cn.github.io/](https://learnopengl-cn.github.io/)
+
+## [英文版链接: https://learnopengl.com/](https://learnopengl.com/)
+
+### 个人源代码:
+
+[https://github.com/yulinxx/LearnOpenGL](https://github.com/yulinxx/LearnOpenGL)
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1ji4si/)
+
+早期的OpenGL使用立即渲染模式（Immediate mode，也就是**固定渲染管线**），这个模式下绘制图形很方便。OpenGL的大多数功能都被库隐藏起来，开发者很少能控制OpenGL如何进行计算的自由。而开发者迫切希望能有更多的灵活性。随着时间推移，规范越来越灵活，开发者对绘图细节有了更多的掌控。立即渲染模式确实容易使用和理解，但是效率太低。
+
+因此从OpenGL3.2开始，规范文档开始废弃立即渲染模式，推出**核心模式(Core-profile)**，这个模式完全移除了旧的特性。
+
+#### 状态机
+
+OpenGL自身是一个巨大的状态机(State Machine)：一系列的变量描述OpenGL此刻应当如何运行。OpenGL的状态通常被称为**OpenGL上下文(Context)**。我们通常使用如下途径去更改OpenGL状态：设置选项，操作缓冲。最后，我们使用当前OpenGL上下文来渲染。
+
+假设当我们想告诉OpenGL去画线段而不是三角形的时候，我们通过改变一些上下文变量来改变OpenGL状态，从而告诉OpenGL如何去绘图。一旦我们改变了OpenGL的状态为绘制线段，下一个绘制命令就会画出线段而不是三角形。
+
+当使用OpenGL的时候，我们会遇到一些状态设置函数(State-changing Function)，这类函数将会改变上下文。以及状态使用函数(State-using Function)，这类函数会根据当前OpenGL的状态执行一些操作。只要你记住OpenGL本质上是个大状态机，就能更容易理解它的大部分特性。
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jl24h/)
+
+```
+// 创建对象
+unsigned int objectId = 0;
+glGenObject(1, &objectId);
+// 绑定对象至上下文
+glBindObject(GL_WINDOW_TARGET, objectId);
+// 设置当前绑定到 GL_WINDOW_TARGET 的对象的一些选项
+glSetObjectOption(GL_WINDOW_TARGET, GL_OPTION_WINDOW_WIDTH, 800);
+glSetObjectOption(GL_WINDOW_TARGET, GL_OPTION_WINDOW_HEIGHT, 600);
+// 将上下文对象设回默认
+glBindObject(GL_WINDOW_TARGET, 0);
+
+```
+
+这一小段代码展现了以后使用OpenGL时常见的工作流。
+1.我们首先创建一个对象，然后用一个id保存它的引用（实际数据被储存在后台）。
+2.然后我们将对象绑定至上下文的目标位置（例子中窗口对象目标的位置被定义成GL_WINDOW_TARGET）。
+3.接下来我们设置窗口的选项。
+4.最后我们将目标位置的对象id设回0，解绑这个对象。
+设置的选项将被保存在objectId所引用的对象中，一旦我们重新绑定这个对象到GL_WINDOW_TARGET位置，这些选项就会重新生效。
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jobj4/)·edited 1 month ago
+
+## GLFW
+
+**GLFW** 是一个专门针对OpenGL的C语言库，它提供了一些渲染物体所需的最低限度的接口。
+它允许用户创建OpenGL上下文，定义窗口参数以及处理用户输入
+*如何编译并生成[GLFW](https://learnopengl-cn.github.io/01%20Getting%20started/02%20Creating%20a%20window/)
+使用时需要把glfw3.lib库链接进来
+
+```
+#pragma comment (lib, "glfw3.lib")   
+
+```
+
+## GLAD
+
+**GLAD**是用来管理OpenGL的函数指针的，所以在调用任何OpenGL的函数之前我们需要初始化GLAD
+
+配置使用:
+打开GLAD的[在线服务](http://glad.dav1d.de/)，将语言(Language)设置为C/C++，在API选项中，选择3.3以上的OpenGL(gl)版本。
+之后将模式(Profile)设置为Core，并且保证生成加载器(Generate a loader)的选项是选中的。
+现在可以先（暂时）忽略拓展(Extensions)中的内容。
+都选择完之后，点击生成(Generate)按钮来生成库文件。
+然后包含进来即可使用
+
+```
+#include <glad/glad.h>  
+
+```
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jpb2p/)
+
+代码链接错误:
+
+```
+error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+
+error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+
+error LNK2019: unresolved external symbol _gladLoadGLLoader referenced in function _main
+error LNK2001: unresolved external symbol _glad_glViewport
+
+```
+
+需要:
+
+*   链接库 pragma comment (lib, "**glfw3.lib**")
+
+*   包含 **glad.c**
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jpcih/)·edited 1 month ago
+
+### 创建一个窗口:
+
+[https://learnopengl-cn.github.io/01%20Getting%20started/03%20Hello%20Window/](https://learnopengl-cn.github.io/01%20Getting%20started/03%20Hello%20Window/)
+
+```
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+#include <iostream>
+
+#pragma comment (lib, "glfw3.lib")
+
+// 回调函数声明
+void framebuffer_size_callback(GLFWwindow* pWnd, int width, int height);
+void processInput(GLFWwindow *pWnd);
+
+const unsigned int SCR_W = 800;
+const unsigned int SCR_H = 600;
+
+// ###########################
+int main()
+{
+ // glfw: initialize and configure 初始化GLFW
+ glfwInit();
+ glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3); // 主版本号
+ glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3); // 主版本号
+ glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
+
+#ifdef __APPLE__ // uncomment this statement to fix compilation on OS X
+ glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
+#endif
+
+ // glfw window creation 窗口创建
+ GLFWwindow* pWnd = glfwCreateWindow(SCR_W, SCR_H, "LearnOpenGL", NULL, NULL);
+ if (pWnd == NULL)
+ {
+   std::cout << "Failed to create GLFW pWnd" << std::endl;
+   glfwTerminate();
+   return -1;
+ }
+ glfwMakeContextCurrent(pWnd);		//将窗口的上下文设置为当前线程的主上下文
+ // 每当窗口调整大小的时候回调framebuffer_size_callback函数
+ glfwSetFramebufferSizeCallback(pWnd, framebuffer_size_callback);
+
+ // glad: load all OpenGL function pointers  初始化GLAD
+ // 给GLAD传入了用来加载系统相关的OpenGL函数指针地址的函数
+ if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
+ {
+   std::cout << "Failed to initialize GLAD" << std::endl;
+   return -1;
+ }
+
+ // render loop 循环渲染
+ while (!glfwWindowShouldClose(pWnd))
+ {
+   // input 输入检查
+   processInput(pWnd);
+
+   // 去掉底下二行,则为一个纯黑背景的窗口,否则为一个青蓝色窗口
+   glClearColor(0.2f, 0.3f, 0.3f, 1.0f);	// 设置清空屏幕所用的颜色
+   glClear(GL_COLOR_BUFFER_BIT);	// 清空屏幕
+
+   // swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
+   glfwSwapBuffers(pWnd);	// 交换缓冲
+   glfwPollEvents(); // 检查有没有触发什么事件
+ }
+
+ // 结束并清理GLFW调用的资源
+ glfwTerminate();
+
+ return 0;
+}
+
+// ----------------------------------------------------------------------------
+// query GLFW whether relevant keys are pressed/released this frame and react accordingly
+// 检查所有输入   若ESC按下,则关闭GLFW窗口
+void processInput(GLFWwindow *pWnd)
+{
+ if (glfwGetKey(pWnd, GLFW_KEY_ESCAPE) == GLFW_PRESS)
+   glfwSetWindowShouldClose(pWnd, true);
+}
+
+// --------------------------------------------------------------------------
+// whenever the pWnd size changed (by OS or user resize) this callback function executes
+void framebuffer_size_callback(GLFWwindow* pWnd, int width, int height)
+{
+ // make sure the viewport matches the new pWnd dimensions; note that width and
+ // height will be significantly larger than specified on retina displays.
+ glViewport(0, 0, width, height);
+}
+
+```
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1jq7y7/)·edited 1 month ago
+
+## 着色器
+
+*   顶点数组对象：Vertex Array Object，VAO
+
+*   顶点缓冲对象：Vertex Buffer Object，VBO
+
+*   索引缓冲对象：Element Buffer Object，EBO或Index Buffer Object，IBO
+
+[图像管线示意图:(蓝色部分代表的是我们可以注入自定义的着色器的部分)](https://learnopengl-cn.github.io/img/01/04/pipeline.png)
+
+OpenGL的大部分工作都是关于把3D坐标转变为适应你屏幕的2D像素。3D坐标转为2D坐标的处理过程是由OpenGL的图形渲染管线管理的。（**Graphics Pipeline**，大多译为**管线**，指的是原始图形数据经一个输送管道，经过各种处理最终出现在屏幕的过程）
+
+图形渲染管线可以被划分为两个主要部分：
+
+*   第一部分把你的3D坐标转换为2D坐标
+
+*   第二部分是把2D坐标转变为实际的有颜色的像素。
+
+图形渲染管线可以被划分为几个阶段，每个阶段将会把前一个阶段的输出作为输入。正是由于它们具有并行执行的特性，当今大多数显卡都有成千上万的小处理核心，它们在GPU上为每一个（渲染管线）阶段运行各自的小程序，从而在图形渲染管线中快速处理你的数据。这些小程序叫做着色器(Shader)。
+
+1.  图形渲染管线的第一个部分是**顶点着色器(Vertex Shader)**，它把一个单独的顶点作为输入。顶点着色器主要的目的是把3D坐标转为另一种3D坐标，同时顶点着色器允许我们对顶点属性进行一些基本处理。
+
+2.  **图元装配(Primitive Assembly)**阶段将顶点着色器输出的所有顶点作为输入（如果是GL_POINTS，那么就是一个顶点），并所有的点装配成指定图元的形状；
+
+3.  图元装配阶段的输出会传递给**几何着色器(Geometry Shader)**。几何着色器把图元形式的一系列顶点的集合作为输入，它可以通过产生新顶点构造出新的（或是其它的）图元来生成其他形状。
+
+4.  几何着色器的输出会被传入**光栅化阶段(Rasterization Stage)**，这里它会把图元映射为最终屏幕上相应的像素，生成供片段着色器(Fragment Shader)使用的片段(Fragment)。在片段着色器运行之前会执行裁切(Clipping)。裁切会丢弃超出你的视图以外的所有像素，用来提升执行效率。
+
+5.  **片段着色器 (Fragment Shader)** 的主要目的是计算一个像素的最终颜色，这也是OpenGL所有高级效果产生的地方。通常，片段着色器包含3D场景的数据（比如光照、阴影、光的颜色等等），这些数据可以被用来计算最终像素的颜色。
+
+6.  在所有对应颜色值确定以后，最终的对象将会被传到最后一个阶段，叫做**Alpha测试和混合(Blending)阶段**。这个阶段检测片段的对应的深度（和模板(Stencil)）值（后面会讲），用它们来判断这个像素是其它物体的前面还是后面，决定是否应该丢弃。这个阶段也会检查alpha值（alpha值定义了一个物体的透明度）并对物体进行混合(Blend)。所以，即使在片段着色器中计算出来了一个像素输出的颜色，在渲染多个三角形的时候最后的像素颜色也可能完全不同。
+
+可以看到，图形渲染管线非常复杂，它包含很多可配置的部分。然而，对于大多数场合，我们只需要配置顶点和片段着色器就行了。几何着色器是可选的，通常使用它默认的着色器就行了。
+
+在现代OpenGL中，我们**必须**定义至少一个顶点着色器和一个片段着色器（因为GPU中没有默认的顶点/片段着色器）。
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1l0lzb/)·edited 1 month ago
+
+# 绘制[橙色三角形](https://i.imgur.com/FEVx26B.jpg)
+
+代码:
+
+```
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+
+#include <iostream>
+
+#pragma comment (lib, "glfw3.lib")
+
+void framebuffer_size_callback(GLFWwindow* pWnd, int width, int height);
+void processInput(GLFWwindow *pWnd);
+
+const unsigned int SCR_W = 800;
+const unsigned int SCR_H = 600;
+
+// 着色器代码  着色器语言GLSL(OpenGL Shading Language)
+const char *pVertexShaderSource = "#version 330 core\n"
+"layout (location = 0) in vec3 vecPos;\n"	// in 输入的顶点
+"void main()\n"
+"{\n"			// gl_Position 设置的值会成为该顶点着色器的输出
+"   gl_Position = vec4(vecPos.x, vecPos.y, vecPos.z, 1.0);\n"
+"}\0";
+
+const char *pFragmentShaderSource = "#version 330 core\n"
+"out vec4 vecFragColor;\n"
+"void main()\n"
+"{\n"
+"   vecFragColor = vec4(1.0f, 0.5f, 0.2f, 1.0f);\n"	// 最终的输出颜色
+"}\n\0";
+
+//#######################################
+int main()
+{
+ glfwInit();
+ glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
+ glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
+ glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
+
+#ifdef __APPLE__	// 去掉此注释以适应苹果操作系统
+ glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
+#endif
+
+ GLFWwindow* pWnd = glfwCreateWindow(SCR_W, SCR_H, "LearnOpenGL", NULL, NULL);
+ if (pWnd == NULL)
+ {
+   std::cout << "Failed to create GLFW pWnd" << std::endl;
+   glfwTerminate();
+   return -1;
+ }
+
+ glfwMakeContextCurrent(pWnd);
+ glfwSetFramebufferSizeCallback(pWnd, framebuffer_size_callback);
+
+ if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
+ {
+   std::cout << "Failed to initialize GLAD" << std::endl;
+   return -1;
+ }
+
+ // build and compile our shader program 创建绑定并编译着色器程序
+ // ------------------------------------
+ // vertex shader 顶点着色器
+ int nVertexShader = glCreateShader(GL_VERTEX_SHADER);
+ // 着色器源码附加到着色器对象上
+ glShaderSource(nVertexShader, 1, &pVertexShaderSource, NULL);
+ // 编译着色器
+ glCompileShader(nVertexShader);
+
+ // check for shader compile errors 错误检查
+ int nSuccess = 0;
+ char chInfoLog[512];
+ glGetShaderiv(nVertexShader, GL_COMPILE_STATUS, &nSuccess);
+ if (!nSuccess)
+ {
+   glGetShaderInfoLog(nVertexShader, 512, NULL, chInfoLog);
+   std::cout << "ERROR::SHADER::VERTEX::COMPILATION_FAILED\n"
+                           << chInfoLog << std::endl;
+ }
+
+ // fragment shader  片段著色器
+ int nFragmentShader = glCreateShader(GL_FRAGMENT_SHADER);
+ glShaderSource(nFragmentShader, 1, &pFragmentShaderSource, NULL);
+ glCompileShader(nFragmentShader);
+ // check for shader compile errors 错误检查
+ glGetShaderiv(nFragmentShader, GL_COMPILE_STATUS, &nSuccess);
+ if (!nSuccess)
+ {
+   glGetShaderInfoLog(nFragmentShader, 512, NULL, chInfoLog);
+   std::cout << "ERROR::SHADER::FRAGMENT::COMPILATION_FAILED\n"
+                         << chInfoLog << std::endl;
+ }
+
+ // link shaders 链接着色器
+ int nShaderProgram = glCreateProgram();	// 创建一个程序对象
+ glAttachShader(nShaderProgram, nVertexShader);	// 把编译的着色器附加到程序对象上
+ glAttachShader(nShaderProgram, nFragmentShader);
+ glLinkProgram(nShaderProgram);	// 链接
+
+ // check for linking errors  错误检查
+ glGetProgramiv(nShaderProgram, GL_LINK_STATUS, &nSuccess);
+ if (!nSuccess)
+ {
+   glGetProgramInfoLog(nShaderProgram, 512, NULL, chInfoLog);
+   std::cout << "ERROR::SHADER::PROGRAM::LINKING_FAILED\n" << chInfoLog << std::endl;
+ }
+ glDeleteShader(nVertexShader);
+ glDeleteShader(nFragmentShader);
+
+ // ------------------------------------
+ float fVertices[] = {		// 定义绘制三角形需要的顶点
+   -0.5f, -0.5f, 0.0f, // left  左
+   0.5f, -0.5f, 0.0f, // right  右
+   0.0f,  0.5f, 0.0f  // top    上
+ };
+
+ unsigned int nVBO, nVAO;
+ glGenVertexArrays(1, &nVAO);		// 创建 顶点数组对象
+ glGenBuffers(1, &nVBO);
+ // bind the Vertex Array Object first,
+       // then bind and set vertex buffer(s), and then configure vertex attributes(s).
+ glBindVertexArray(nVAO); // 绑定  随后的任何顶点属性调用都会储存在这个VAO中(状态机)
+
+ // 顶点缓冲对象(Vertex Buffer Objects, VBO)管理这个内存，
+ //它会在GPU内存（显存）中储存大量顶点。
+ // 可以一次性发送一大批数据到显卡上。
+ //从CPU把数据发送到显卡相对较慢，所以只要可能我们都要尝试尽量一次性发送尽可能多的数据。
+ //当数据发送至显卡的内存中后，顶点着色器几乎能立即访问顶点，这是个非常快的过程。
+
+ glBindBuffer(GL_ARRAY_BUFFER, nVBO);	// 创建 顶点缓冲对象(返回缓冲ID),管理顶点内存
+       // 把定义的顶点数据复制到缓冲中
+ glBufferData(GL_ARRAY_BUFFER, sizeof(fVertices), fVertices, GL_STATIC_DRAW);
+
+ // 第一个参数 0 将顶点传至GLSH的 layout(location = 0) 中
+       // 设置的顶点属性配置
+ glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), (void*)0);		
+ glEnableVertexAttribArray(0);// 以顶点属性位置值作为参数，启用顶点属性
+
+ glBindBuffer(GL_ARRAY_BUFFER, 0);	// 解绑VBO
+ glBindVertexArray(0);	// 解绑VAO, 避免VAO被修改
+
+ //glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);	// 只绘制三角形的边
+
+ while (!glfwWindowShouldClose(pWnd))
+ {
+   processInput(pWnd);
+
+   glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
+   glClear(GL_COLOR_BUFFER_BIT);
+
+   // draw our first triangle 绘制三角形
+   glUseProgram(nShaderProgram);	 // 在当前渲染状态中安装使用着色器程序
+   glBindVertexArray(nVAO); // 绑定并使用VAO
+   glDrawArrays(GL_TRIANGLES, 0, 3);	// 绘制函数
+   // glBindVertexArray(0); // 不需要每次都解绑
+
+   glfwSwapBuffers(pWnd);
+   glfwPollEvents();
+ }
+
+ // optional: de-allocate all resources  释放资源
+ glDeleteVertexArrays(1, &nVAO);
+ glDeleteBuffers(1, &nVBO);
+
+ glfwTerminate();
+ return 0;
+}
+
+// ----------------------------------------------
+void processInput(GLFWwindow *pWnd)
+{
+ if (glfwGetKey(pWnd, GLFW_KEY_ESCAPE) == GLFW_PRESS)
+   glfwSetWindowShouldClose(pWnd, true);
+}
+
+// --------------------------------------------
+void framebuffer_size_callback(GLFWwindow* pWnd, int width, int height)
+{
+ // make sure the viewport matches the new pWnd dimensions; note that width and
+ // height will be significantly larger than specified on retina displays.
+ glViewport(0, 0, width, height);
+}
+
+```
+
+运行效果图: [https://i.imgur.com/FEVx26B.jpg](https://i.imgur.com/FEVx26B.jpg)
+
+> 来源:你好，三角形 - LearnOpenGL CN [https://learnopengl-cn.github.io/01%20Getting%20started/04%20Hello%20Triangle/](https://learnopengl-cn.github.io/01%20Getting%20started/04%20Hello%20Triangle/)
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1nrn9z/)·edited 1 month ago
+
+# 使用索引绘制[橙色三角形](https://i.imgur.com/FEVx26B.jpg)
+
+**索引缓冲对象　(Element Buffer Object，EBO，也叫Index Buffer Object，IBO)**
+
+以绘制两个三角形来组成一个矩形（OpenGL主要处理三角形）。这会生成下面的顶点的集合：
+
+```
+float vertices[] = {
+   // 第一个三角形
+   0.5f, 0.5f, 0.0f,   // 右上角
+   0.5f, -0.5f, 0.0f,  // 右下角
+   -0.5f, 0.5f, 0.0f,  // 左上角
+   // 第二个三角形
+   0.5f, -0.5f, 0.0f,  // 右下角
+   -0.5f, -0.5f, 0.0f, // 左下角
+   -0.5f, 0.5f, 0.0f   // 左上角
+};
+
+```
+
+可以看到，有几个顶点叠加了。我们指定了右下角和左上角**两次**！一个矩形只有4个而不是6个顶点，这样就产生50%的额外开销。当我们有包括上千个三角形的模型之后这个问题会更糟糕，这会产生一大堆浪费。
+更好的解决方案是只储存不同的顶点，并设定绘制这些顶点的顺序。这样子我们只要储存4个顶点就能绘制矩形了，之后只要指定绘制的顺序就行了。
+索引缓冲对象的工作方式正是这样的。和顶点缓冲对象一样，**EBO**也是一个缓冲，它**专门储存索引**，OpenGL调用这些顶点的索引来决定该绘制哪个顶点。 缓冲的类型定义为`GL_ELEMENT_ARRAY_BUFFER`　用1glDrawElements1来替换glDrawArrays函数，来指明我们从索引缓冲渲染
+
+```
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+
+#include <iostream>
+
+#pragma comment (lib, "glfw3.lib")
+
+void framebuffer_size_callback(GLFWwindow* pWnd, int width, int height);
+void processInput(GLFWwindow *pWnd);
+
+const unsigned int SCR_W = 800;
+const unsigned int SCR_H = 600;
+
+// 着色器代码  着色器语言GLSL(OpenGL Shading Language)
+const char *pVertexShaderSource = "#version 330 core\n"
+"layout (location = 0) in vec3 vecPos;\n"	// in 输入的顶点
+"void main()\n"
+"{\n"			// gl_Position 设置的值会成为该顶点着色器的输出
+"   gl_Position = vec4(vecPos.x, vecPos.y, vecPos.z, 1.0);\n"
+"}\0";
+
+const char *pFragmentShaderSource = "#version 330 core\n"
+"out vec4 vecFragColor;\n"
+"void main()\n"
+"{\n"
+"   vecFragColor = vec4(1.0f, 0.5f, 0.2f, 1.0f);\n"	// 最终的输出颜色
+"}\n\0";
+
+//#######################################
+int main()
+{
+ glfwInit();
+ glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
+ glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
+ glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
+
+#ifdef __APPLE__	// 去掉此注释以适应苹果操作系统
+ glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
+#endif
+
+ GLFWwindow* pWnd = glfwCreateWindow(SCR_W, SCR_H,
+         "LearnOpenGL With Element", NULL, NULL);
+ if (pWnd == NULL)
+ {
+   std::cout << "Failed to create GLFW pWnd" << std::endl;
+   glfwTerminate();
+   return -1;
+ }
+
+ glfwMakeContextCurrent(pWnd);
+ glfwSetFramebufferSizeCallback(pWnd, framebuffer_size_callback);
+
+ if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
+ {
+   std::cout << "Failed to initialize GLAD" << std::endl;
+   return -1;
+ }
+
+ // build and compile our shader program 创建绑定并编译着色器程序
+ // ------------------------------------
+ // vertex shader 顶点着色器
+ int nVertexShader = glCreateShader(GL_VERTEX_SHADER);
+ // 着色器源码附加到着色器对象上
+ glShaderSource(nVertexShader, 1, &pVertexShaderSource, NULL);
+ // 编译着色器
+ glCompileShader(nVertexShader);
+
+ // check for shader compile errors 错误检查
+ int nSuccess = 0;
+ char chInfoLog[512];
+ glGetShaderiv(nVertexShader, GL_COMPILE_STATUS, &nSuccess);
+ if (!nSuccess)
+ {
+   glGetShaderInfoLog(nVertexShader, 512, NULL, chInfoLog);
+   std::cout << "ERROR::SHADER::VERTEX::COMPILATION_FAILED\n"
+                    << chInfoLog << std::endl;
+ }
+
+ // fragment shader  片段著色器
+ int nFragmentShader = glCreateShader(GL_FRAGMENT_SHADER);
+ glShaderSource(nFragmentShader, 1, &pFragmentShaderSource, NULL);
+ glCompileShader(nFragmentShader);
+ // check for shader compile errors 错误检查
+ glGetShaderiv(nFragmentShader, GL_COMPILE_STATUS, &nSuccess);
+ if (!nSuccess)
+ {
+   glGetShaderInfoLog(nFragmentShader, 512, NULL, chInfoLog);
+   std::cout << "ERROR::SHADER::FRAGMENT::COMPILATION_FAILED\n"
+                          << chInfoLog << std::endl;
+ }
+
+ // link shaders 链接着色器
+ int nShaderProgram = glCreateProgram();	// 创建一个程序对象
+ glAttachShader(nShaderProgram, nVertexShader);	// 把编译的着色器附加到程序对象上
+ glAttachShader(nShaderProgram, nFragmentShader);
+ glLinkProgram(nShaderProgram);	// 链接
+
+ // check for linking errors  错误检查
+ glGetProgramiv(nShaderProgram, GL_LINK_STATUS, &nSuccess);
+ if (!nSuccess)
+ {
+   glGetProgramInfoLog(nShaderProgram, 512, NULL, chInfoLog);
+   std::cout << "ERROR::SHADER::PROGRAM::LINKING_FAILED\n"
+                                << chInfoLog << std::endl;
+ }
+ glDeleteShader(nVertexShader);
+ glDeleteShader(nFragmentShader);
+
+ // ------------------------------------
+ //float fVertices[] = {		// 定义绘制三角形需要的顶点
+ //	-0.5f, -0.5f, 0.0f, // left  左
+ //	0.5f, -0.5f, 0.0f, // right  右
+ //	0.0f,  0.5f, 0.0f  // top    上
+ //};
+
+ float fVertices[] = { // 定义绘制三角形需要的顶点
+   0.5f,  0.5f, 0.0f,  // top right
+   0.5f, -0.5f, 0.0f,  // bottom right
+   -0.5f, -0.5f, 0.0f,  // bottom left
+   -0.5f,  0.5f, 0.0f   // top left
+ };
+
+ // *** 定义 顶点索引  即绘制三角形的顺序
+ unsigned int nIndices[] = {  // 从 0 开始
+   0, 1, 3,  // first Triangle 第一个三角形
+   1, 2, 3   // second Triangle 第二个三角形
+ };
+
+ unsigned int nVBO, nVAO, nEBO;
+ glGenVertexArrays(1, &nVAO);		// 创建 顶点数组对象
+ glGenBuffers(1, &nVBO);
+ glGenBuffers(1, &nEBO);	// *** 索引
+
+ glBindVertexArray(nVAO); // 绑定  随后的任何顶点属性调用都会储存在这个VAO中(状态机)
+
+ // 顶点缓冲对象(Vertex Buffer Objects, VBO)管理这个内存，
+ //它会在GPU内存（显存）中储存大量顶点。
+ // 可以一次性发送一大批数据到显卡上。
+ //从CPU把数据发送到显卡相对较慢，所以只要可能我们都要尝试尽量一次性发送尽可能多的数据。
+ //当数据发送至显卡的内存中后，顶点着色器几乎能立即访问顶点，这是个非常快的过程。
+
+ glBindBuffer(GL_ARRAY_BUFFER, nVBO);	// 创建 顶点缓冲对象,管理顶点内存
+       // 把定义的顶点数据复制到缓冲中
+ glBufferData(GL_ARRAY_BUFFER, sizeof(fVertices), fVertices, GL_STATIC_DRAW);
+
+ glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, nEBO); // **  创建 索引缓冲对象
+       // ** 把索引复制到缓冲里
+ glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(nIndices), nIndices, GL_STATIC_DRAW);
+
+ // 第一个参数 0 将顶点传至GLSH的 layout(location = 0) 中
+       // 设置的顶点属性配置
+ glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), (void*)0);		
+ glEnableVertexAttribArray(0);	// 以顶点属性位置值作为参数，启用顶点属性
+
+ glBindBuffer(GL_ARRAY_BUFFER, 0);	// 解绑VBO
+ glBindVertexArray(0);	// 解绑VAO, 避免VAO被修改
+
+ glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);	// 只绘制三角形的边
+
+ while (!glfwWindowShouldClose(pWnd))
+ {
+   processInput(pWnd);
+
+   glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
+   glClear(GL_COLOR_BUFFER_BIT);
+
+   // draw our first triangle 绘制三角形
+   glUseProgram(nShaderProgram);	 // 在当前渲染状态中安装使用着色器程序
+   glBindVertexArray(nVAO); // 绑定并使用VAO
+
+   //glDrawArrays(GL_TRIANGLES, 0, 3);	// 绘制函数
+   glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0); // 用索引绘制函数
+
+   // glBindVertexArray(0); // 不需要每次都解绑
+
+   glfwSwapBuffers(pWnd);
+   glfwPollEvents();
+ }
+
+ // optional: de-allocate all resources  释放资源
+ glDeleteVertexArrays(1, &nVAO);
+ glDeleteBuffers(1, &nVBO);
+ glDeleteBuffers(1, &nEBO); // ** 解绑
+
+ glfwTerminate();
+ return 0;
+}
+
+// ----------------------------------------------
+void processInput(GLFWwindow *pWnd)
+{
+ if (glfwGetKey(pWnd, GLFW_KEY_ESCAPE) == GLFW_PRESS)
+   glfwSetWindowShouldClose(pWnd, true);
+}
+
+// --------------------------------------------
+void framebuffer_size_callback(GLFWwindow* pWnd, int width, int height)
+{
+ // make sure the viewport matches the new pWnd dimensions; note that width and
+ // height will be significantly larger than specified on retina displays.
+ glViewport(0, 0, width, height);
+}
+
+```
+
+效果:
+
+[https://i.imgur.com/HW6drGa.jpg](https://i.imgur.com/HW6drGa.jpg)
+
+代码截图:
+[https://i.imgur.com/dq97FC6.jpg](https://i.imgur.com/dq97FC6.jpg)
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1pzl9i/)
+
+# 着色器 基础
+
+* * *
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
+
+level 1
+
+[yulinxx](https://www.reddit.com/user/yulinxx)
+
+1 point·[1 month ago](https://www.reddit.com/user/yulinxx/comments/8uzmvd/opengl_%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_learnopenglcn/e1pzr23/)·edited 1 month ago
+
+# 着色器 基础
+
+**着色器(Shader)**是运行在GPU上的小程序。这些小程序为图形渲染管线的某个特定部分而运行。从基本意义上来说，着色器只是一种把输入转化为输出的程序。着色器也是一种非常独立的程序，因为它们之间不能相互通信；它们之间唯一的沟通只有通过输入和输出。
+**GLSL (GLslang)** is a short term for the official OpenGL Shading Language.GLSL is a C/C++ similar high level programming language for several parts of the graphic card.With GLSL you can code (right up to) short programs, called shaders, which are executed on the GPU.
+
+GLSL是为图形计算量身定制的，它包含一些针对向量和矩阵操作的有用特性。着色器的开头总是要声明版本，接着是输入和输出变量、uniform和main函数。在每个shader中必须有一个`main`函数。main函数中的void参数是可选的，但返回值是void时必须的。
+每个着色器的入口点都是main函数，在这个函数中我们处理所有的输入变量，并将结果输出到输出变量中
+
+一个典型的着色器有下面的结构：
+
+```
+#version version_number
+in type in_variable_name;
+in type in_variable_name;
+
+out type out_variable_name;
+
+uniform type uniform_name;
+
+int main()
+{
+ // 处理输入并进行一些图形操作
+ ...
+ // 输出处理过的结果到输出变量
+ out_variable_name = weird_stuff_we_processed;
+}
+
+```
+
+## 数据类型
+
+GLSL有数据类型可以来指定变量的种类。GLSL中包含C等其它语言大部分的默认基础数据类型：
+`int`、`float`、`double`、`uint` 和 `bool`。
+
+GLSL也有两种容器类型，分别是向量(Vector)和矩阵(Matrix)
+
+| **类型** | **含义** |
+| --- | --- |
+| **vecn** | 包含 n 个float分量的默认向量 |
+| bvecn | 包含 n 个bool分量的向量 |
+| ivecn | 包含 n 个int分量的向量 |
+| uvecn | 包含 n 个unsigned int分量的向量 |
+| dvecn | 包含 n 个double分量的向量 |
+
+一个向量的分量可以通过vec.x这种方式获取，这里x是指这个向量的第一个分量。可以分别使用.x、.y、.z和.w来获取它们的第1、2、3、4个分量。GLSL也允许你对颜色使用rgba，或是对纹理坐标使用stpq访问相同的分量。　　向量这一数据类型也允许一些有趣而灵活的分量选择方式，叫做**重组(Swizzling)**。
+重组允许这样的语法：
+
+```
+vec2 someVec;
+vec4 differentVec = someVec.xyxx;
+
+vec3 anotherVec = differentVec.zyw;
+vec4 otherVec = someVec.xxxx + anotherVec.yxzy;
+
+```
+
+可以使用上面4个字母任意组合来创建一个和原来向量一样长的（同类型）新向量，只要原来向量有那些分量即可；然而，你不允许在一个vec2向量中去获取.z元素。构造向量：
+
+```
+vec2 vect = vec2(0.5, 0.7);
+vec4 result = vec4(vect, 0.0, 0.0);
+vec4 otherResult = vec4(result.xyz, 1.0);
+
+```
+
+## 输入与输出
+
+每个着色器都有输入和输出，互相进行数据交流和传递。GLSL定义了in和out关键字专门来实现这个目的。　　 每个着色器使用这两个关键字设定输入和输出，只要一个输出变量与下一个着色器阶段的输入匹配，它就会传递下去。但在顶点和片段着色器中会有点不同。
+
+顶点着色器是一种特殊形式的输入，它从顶点数据中直接接收输入。GLSL中使用location这一元数据指定输入变量，这样我们才可以在CPU上配置顶点属性并传入GLSH中。
+
+如下，从源代码中传入数据至顶点着色器中(通过0互相对应)：
+
+```
+// C++　中
+// 设置的顶点属性配置
+glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), (void*)0);		
+// 以顶点属性位置值作为参数，启用顶点属性
+glEnableVertexAttribArray(0);
+
+// GLSL　中
+layout (location = 0) in vec3 vecPos;
+
+```
+
+片段着色器是一种特殊形式的输出，它需要一个vec4颜色输出变量，因为片段着色器需要生成一个最终输出的颜色。如果在片段着色器没有定义输出颜色，OpenGL会渲染为黑色（或白色）。
+
+从一个着色器向另一个着色器发送数据，必须在发送方着色器中声明一个输出，在接收方着色器中声明一个类似的输入。当类型和名字都一样的时候，OpenGL就会把两个变量链接到一起，它们之间就能发送数据了（这是在链接程序对象时完成的）。
+
+顶点着色器
+
+```
+#version 330 core
+layout (location = 0) in vec3 aPos; // 位置变量的属性位置值为0
+
+out vec4 vertexColor; // **为片段着色器指定一个颜色输出
+
+void main()
+{
+   gl_Position = vec4(aPos, 1.0); // 注意我们如何把一个vec3作为vec4的构造器的参数
+   vertexColor = vec4(0.5, 0.0, 0.0, 1.0); // **把输出变量设置为暗红色
+}
+
+```
+
+片段着色器
+
+```
+#version 330 core
+out vec4 FragColor; // 输出
+
+in vec4 vertexColor; // **输入　从顶点着色器传来的输入变量（名称相同、类型相同）
+
+void main()
+{
+   FragColor = vertexColor; // 最终渲染的颜色
+}
+
+```
+
+Reply
+
+Share
+
+Save Edit
+
+Remove Spam
