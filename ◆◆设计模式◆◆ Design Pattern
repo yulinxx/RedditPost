@@ -1,0 +1,5072 @@
+
+
+https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/
+
+
+
+
+
+
+[[图片上传失败...(image-4eb52c-1534384673567)]](https://www.reddit.com/user/yulinxx/)
+
+[u/yulinxx](https://www.reddit.com/user/yulinxx/)•Posted by
+
+[u/yulinxx](https://www.reddit.com/user/yulinxx)
+
+[7 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/)
+
+ ## ◆◆设计模式◆◆ Design Pattern
+
+[[图片上传失败...(image-30e951-1534384673567)]](https://i.redd.it/zqed7bgluye11.png)
+
+Design Pattern
+
+147 Comments
+
+Share
+
+Edit Post Save Hide
+
+37 Views100% Upvoted
+
+This thread has been locked by the moderators of r/yulinxx
+
+New comments cannot be posted
+
+SORT BY
+
+Q&A (SUGGESTED)
+
+
+
+
+
+1 point·[7 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3uzhkj/)
+
+# 设计模式（Design pattern）
+
+代表了最佳的实践，通常被有经验的面向对象的软件开发人员所采用。
+
+设计模式是软件开发人员在软件开发过程中面临的一般问题的解决方案。
+
+这些解决方案是众多软件开发人员经过相当长的一段时间的试验和错误总结出来的。
+
+设计模式是一套被反复使用的、多数人知晓的、经过分类编目的、代码设计经验的总结。
+使用设计模式是为了重用代码、让代码更容易被他人理解、保证代码可靠性。
+
+毫无疑问，设计模式于己于他人于系统都是多赢的，设计模式使代码编制真正工程化，
+设计模式是软件工程的基石，如同大厦的一块块砖石一样。
+
+项目中合理地运用设计模式可以完美地解决很多问题，每种模式在现实中都有相应的原理来与之对应，
+每种模式都描述了一个在我们周围不断重复发生的问题，以及该问题的核心解决方案，
+这也是设计模式能被广泛应用的原因。
+
+
+
+
+
+
+
+
+1 point·[7 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3uzl0r/)
+
+工厂模式 --- 抽象工厂模式 --- 单例模式 --- 建造者模式 --- 原型模式
+
+适配器模式 --- 桥接模式 --- 过滤器模式 --- 组合模式 --- 装饰器模式
+
+外观模式 --- 享元模式 --- 代理模式 --- 责任链模式 --- 命令模式
+
+解释器模式 --- 迭代器模式 --- 中介者模式 --- 备忘录模式 --- 观察者模式
+
+状态模式 --- 空对象模式 --- 策略模式 --- 模板模式 --- 访问者模式
+
+MVC 模式 --- 业务代表模式 --- 组合实体模式 --- 数据访问对象模式 ---
+
+前端控制器模式 --- 拦截过滤器模式 --- 服务定位器模式 --- 传输对象模式
+
+[http://www.runoob.com/design-pattern/design-pattern-intro.html](http://www.runoob.com/design-pattern/design-pattern-intro.html)
+
+
+
+
+
+
+
+
+1 point·[7 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3uztxc/)·edited 5 days ago
+
+# UML 图 之 类图
+
+[https://i.imgur.com/2sFCnpf.jpg](https://i.imgur.com/2sFCnpf.jpg)
+
+[https://i.imgur.com/pjRZQYE.png](https://i.imgur.com/pjRZQYE.png)
+
+# 看懂UML类图和时序图
+
+[https://github.com/me115/design_patterns/blob/master/read_uml.rst](https://github.com/me115/design_patterns/blob/master/read_uml.rst)
+
+## 【UML 建模】UML入门 之 交互图 -- 时序图 协作图详解 - CSDN博客
+
+[https://blog.csdn.net/shulianghan/article/details/17927131](https://blog.csdn.net/shulianghan/article/details/17927131)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v315e/)·edited 4 days ago
+
+# 23种设计模式全解析
+
+### 设计模式的分类
+
+## 总体来说设计模式分为三大类：
+
+*   创建型模式，共五种：
+
+`工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式`。
+
+*   结构型模式，共七种：
+
+`适配器模式、装饰器模式、代理模式、外观模式、桥接模式、组合模式、享元模式`。
+
+*   行为型模式，共十一种：
+
+`策略模式、模板方法模式、观察者模式、迭代子模式、责任链模式`、
+`命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式`。
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v429n/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v42d0/)·edited 3 days ago
+
+**基础知识**
+
+**设计模式概述**
+
+[从招式与内功谈起——设计模式概述（一）](http://blog.csdn.net/lovelion/article/details/7417668)：设计模式从何而来？
+
+[从招式与内功谈起——设计模式概述（二）](http://blog.csdn.net/lovelion/article/details/7420863)：设计模式是什么？
+
+[从招式与内功谈起——设计模式概述（三）](http://blog.csdn.net/lovelion/article/details/7420866)：设计模式有什么用？附：个人观点
+
+**面向对象设计原则**
+
+[面向对象设计原则概述](http://blog.csdn.net/lovelion/article/details/7536532)
+
+[面向对象设计原则之单一职责原则](http://blog.csdn.net/lovelion/article/details/7536542)
+
+[面向对象设计原则之开闭原则](http://blog.csdn.net/lovelion/article/details/7537584)
+
+[面向对象设计原则之里氏代换原则](http://blog.csdn.net/lovelion/article/details/7540445)
+
+[面向对象设计原则之依赖倒转原则](http://blog.csdn.net/lovelion/article/details/7562783)
+
+[面向对象设计原则之接口隔离原则](http://blog.csdn.net/lovelion/article/details/7562842)
+
+[面向对象设计原则之合成复用原则](http://blog.csdn.net/lovelion/article/details/7563441)
+
+[面向对象设计原则之迪米特法则](http://blog.csdn.net/lovelion/article/details/7563445)
+
+**六个创建型模式**
+
+**简单工厂模式-Simple Factory Pattern【学习难度：★★☆☆☆，使用频率：★★★☆☆】**
+
+[工厂三兄弟之简单工厂模式（一）](http://blog.csdn.net/lovelion/article/details/9300337)：图表库的设计
+
+[工厂三兄弟之简单工厂模式（二）](http://blog.csdn.net/lovelion/article/details/9300549)：简单工厂模式概述
+
+[工厂三兄弟之简单工厂模式（三）](http://blog.csdn.net/lovelion/article/details/9300657)：图表库的简单工厂模式解决方案
+
+[工厂三兄弟之简单工厂模式（四）](http://blog.csdn.net/lovelion/article/details/9300731)：图表库解决方案的改进，简单工厂模式的简化，简单工厂模式总结
+
+**工厂方法模式-Factory Method Pattern【学习难度：★★☆☆☆，使用频率：★★★★★】**
+
+[工厂三兄弟之工厂方法模式（一）](http://blog.csdn.net/lovelion/article/details/9306457)：日志记录器的设计
+
+[工厂三兄弟之工厂方法模式（二）](http://blog.csdn.net/lovelion/article/details/9306745)：工厂方法模式概述
+
+[工厂三兄弟之工厂方法模式（三）](http://blog.csdn.net/lovelion/article/details/9307137)：日志记录器的工厂方法模式解决方案，反射与配置文件
+
+[工厂三兄弟之工厂方法模式（四）](http://blog.csdn.net/lovelion/article/details/9307561)：重载的工厂方法，工厂方法的隐藏，工厂方法模式总结
+
+**抽象工厂模式-Abstract  Factory Pattern【学习难度：★★★★☆，使用频率：★★★★★】**
+
+[工厂三兄弟之抽象工厂模式（一）](http://blog.csdn.net/lovelion/article/details/9319181)：界面皮肤库的初始设计
+
+[工厂三兄弟之抽象工厂模式（二）](http://blog.csdn.net/lovelion/article/details/9319323)：产品等级结构与产品族
+
+[工厂三兄弟之抽象工厂模式（三）](http://blog.csdn.net/lovelion/article/details/9319423)：抽象工厂模式概述
+
+[工厂三兄弟之抽象工厂模式（四）](http://blog.csdn.net/lovelion/article/details/9319481)：界面皮肤库的抽象工厂模式解决方案
+
+[工厂三兄弟之抽象工厂模式（五）](http://blog.csdn.net/lovelion/article/details/9319571)：“开闭原则”的倾斜性，抽象工厂模式总结
+
+**单例模式-Singleton Pattern【学习难度：★☆☆☆☆，使用频率：★★★★☆】**
+
+[确保对象的唯一性——单例模式 （一）](http://blog.csdn.net/lovelion/article/details/7420883)：单例模式的动机，单例模式概述
+
+[确保对象的唯一性——单例模式 （二）](http://blog.csdn.net/lovelion/article/details/7420885)：负载均衡器的设计与实现
+
+[确保对象的唯一性——单例模式 （三）](http://blog.csdn.net/lovelion/article/details/7420886)：饿汉式单例与懒汉式单例的讨论
+
+[确保对象的唯一性——单例模式 （四）](http://blog.csdn.net/lovelion/article/details/7420888)：一种更好的单例实现方法（静态内部类）
+
+[确保对象的唯一性——单例模式 （五）](http://blog.csdn.net/lovelion/article/details/7420889)：单例模式总结
+
+**原型模式-Prototype Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】**
+
+[对象的克隆——原型模式（一）](http://blog.csdn.net/lovelion/article/details/7424559)：大同小异的工作周报，原型模式概述
+
+[对象的克隆——原型模式（二）](http://blog.csdn.net/lovelion/article/details/7424594)：工作周报的原型模式解决方案
+
+[对象的克隆——原型模式（三）](http://blog.csdn.net/lovelion/article/details/7424620)：带附件的周报【浅克隆，深克隆】
+
+[对象的克隆——原型模式（四）](http://blog.csdn.net/lovelion/article/details/7424623)：原型管理器的引入和实现，原型模式总结
+
+**建造者模式-Builder Pattern【学习难度：★★★★☆，使用频率：★★☆☆☆】**
+
+[复杂对象的组装与创建——建造者模式（一）](http://blog.csdn.net/lovelion/article/details/7426015)：游戏角色设计，建造者模式概述
+
+[复杂对象的组装与创建——建造者模式（二）](http://blog.csdn.net/lovelion/article/details/7426323)：游戏角色设计的建造者模式解决方案
+
+[复杂对象的组装与创建——建造者模式（三）](http://blog.csdn.net/lovelion/article/details/7426855)：关于Director的进一步讨论，建造者模式总结
+
+**七个结构型模式**
+
+**适配器模式-Adapter Pattern【学习难度：★★☆☆☆，使用频率：★★★★☆】**
+
+[不兼容结构的协调——适配器模式（一）](http://blog.csdn.net/lovelion/article/details/8624325)：没有源码的算法库，适配器模式概述
+
+[不兼容结构的协调——适配器模式（二）](http://blog.csdn.net/lovelion/article/details/8624412)：没有源码的算法库的适配器模式解决方案
+
+[不兼容结构的协调——适配器模式（三）](http://blog.csdn.net/lovelion/article/details/8624428)：类适配器，双向适配器
+
+[不兼容结构的协调——适配器模式（四）](http://blog.csdn.net/lovelion/article/details/8624633)：缺省适配器，适配器模式总结
+
+**桥接模式-Bridge Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】**
+
+[处理多维度变化——桥接模式（一）](http://blog.csdn.net/lovelion/article/details/7464183)：跨平台图像浏览系统
+
+[处理多维度变化——桥接模式（二）](http://blog.csdn.net/lovelion/article/details/7464195)：桥接模式概述
+
+[处理多维度变化——桥接模式（三）](http://blog.csdn.net/lovelion/article/details/7464204)：跨平台图像浏览系统的桥接模式解决方案
+
+[处理多维度变化——桥接模式（四）](http://blog.csdn.net/lovelion/article/details/7464208)：适配器模式与桥接模式的联用，桥接模式总结
+
+**组合模式-Composite Pattern【学习难度：★★★☆☆，使用频率：★★★★☆】**
+
+[树形结构的处理——组合模式（一）](http://blog.csdn.net/lovelion/article/details/7956898)：设计杀毒软件的框架结构
+
+[树形结构的处理——组合模式（二）](http://blog.csdn.net/lovelion/article/details/7956908)：组合模式概述
+
+[树形结构的处理——组合模式（三）](http://blog.csdn.net/lovelion/article/details/7956931)：杀毒软件的框架结构的组合模式解决方案
+
+[树形结构的处理——组合模式（四）](http://blog.csdn.net/lovelion/article/details/7956937)：透明组合模式与安全组合模式
+
+[树形结构的处理——组合模式（五）](http://blog.csdn.net/lovelion/article/details/7956962)：公司组织结构，组合模式总结
+
+**装饰模式-Decorator Pattern【学习难度：★★★☆☆，使用频率：★★★☆☆】**
+
+[扩展系统功能——装饰模式（一）](http://blog.csdn.net/lovelion/article/details/7424685)：图形界面构件库的设计
+
+[扩展系统功能——装饰模式（二）](http://blog.csdn.net/lovelion/article/details/7425849)：装饰模式概述
+
+[扩展系统功能——装饰模式（三）](http://blog.csdn.net/lovelion/article/details/7425861)：图形界面构件库的装饰模式解决方案
+
+[扩展系统功能——装饰模式（四）](http://blog.csdn.net/lovelion/article/details/7425873)：透明装饰模式与半透明装饰模式，装饰模式注意事项，装饰模式总结
+
+**外观模式-Facade Pattern【学习难度：★☆☆☆☆，使用频率：★★★★★】**
+
+[深入浅出外观模式（一）](http://blog.csdn.net/lovelion/article/details/8258121)：外观模式概述，外观模式结构与实现
+
+[深入浅出外观模式（二）](http://blog.csdn.net/lovelion/article/details/8259705)：外观模式应用实例（文件加密模块）
+
+[深入浅出外观模式（三）](http://blog.csdn.net/lovelion/article/details/8259789)：抽象外观类，外观模式效果与适用场景
+
+**享元模式-Flyweight Pattern【学习难度：★★★★☆，使用频率：★☆☆☆☆】**
+
+[实现对象的复用——享元模式（一）](http://blog.csdn.net/lovelion/article/details/7667781)：围棋棋子的设计，享元模式概述（上）
+
+[实现对象的复用——享元模式（二）](http://blog.csdn.net/lovelion/article/details/7667810)：享元模式概述（下）
+
+[实现对象的复用——享元模式（三）](http://blog.csdn.net/lovelion/article/details/7667839)：围棋棋子的享元模式解决方案
+
+[实现对象的复用——享元模式（四）](http://blog.csdn.net/lovelion/article/details/7667860)：带外部状态的围棋棋子解决方案
+
+[实现对象的复用——享元模式（五）](http://blog.csdn.net/lovelion/article/details/7667901)：单纯享元模式和复合享元模式，关于享元模式的几点补充，享元模式总结
+
+**代理模式-Proxy Pattern【学习难度：★★★☆☆，使用频率：★★★★☆】**
+
+[代理模式（一）](http://blog.csdn.net/lovelion/article/details/8227953)：代理模式概述，代理模式结构与实现
+
+[代理模式（二）](http://blog.csdn.net/lovelion/article/details/8228042)：代理模式应用实例（收费商务信息查询系统）
+
+[代理模式（三）](http://blog.csdn.net/lovelion/article/details/8228132)：远程代理，虚拟代理，缓冲代理
+
+[代理模式（四）](http://blog.csdn.net/lovelion/article/details/8228156)：代理模式效果与适用场景
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v42gc/)·edited 22 hours ago
+
+* * *
+
+# 设计模式导学目录（完整版） - CSDN博客
+
+[https://blog.csdn.net/lovelion/article/details/17517213](https://blog.csdn.net/lovelion/article/details/17517213)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v42kp/)·edited 22 hours ago
+
+* * *
+
+# 创建型模式(Creational Pattern)对类的实例化过程进行了抽象，能够将软件模块中对象的创建和对象的使用分离。为了使软件的结构更加清晰，外界对于这些对象只需要知道它们共同的接口，而不清楚其具体的实现细节，使整个系统的设计更加符合单一职责原则。
+
+# 创建型模式在创建什么(What)，由谁创建(Who)，何时创建(When)等方面都为软件设计者提供了尽可能大的灵活性。创建型模式隐藏了类的实例的创建细节，通过隐藏对象如何被创建和组合在一起达到使整个系统独立的目的。
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v56ch/)·edited 3 days ago
+
+# 工厂模式 Factory Pattern
+
+> 创建型模式，共五种：工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式。
+
+大致可以分为三类，简单工厂模式、工厂方法模式、抽象工厂模式。听上去差不多，都是工厂模式。
+
+下面一个个介绍，首先介绍简单工厂模式，它的主要特点是需要在工厂类中做判断，从而创造相应的产品。当增加新的产品时，就需要修改工厂类。有点抽象，举个例子就明白了。
+
+有一家生产处理器核的厂家，它只有一个工厂，能够生产两种型号的处理器核。客户需要什么样的处理器核，一定要显式地告诉生产工厂。下面给出一种实现方案。
+
+## 简单工厂模式的UML图：
+
+[https://i.imgur.com/AWhkG71.png](https://i.imgur.com/AWhkG71.png)
+
+```
+// 简单工厂模式 Simple Factory Pattern
+enum CTYPE {COREA, COREB};   
+
+class SingleCore  
+{  
+public:  
+	virtual void Show() = 0;
+};  
+
+//单核A  
+class SingleCoreA: public SingleCore  
+{  
+public:  
+	void Show() { cout<<"SingleCore A"<<endl; }  
+};  
+
+//单核B  
+class SingleCoreB: public SingleCore  
+{  
+public:  
+	void Show() { cout<<"SingleCore B"<<endl; }  
+};  
+
+//唯一的工厂，可以生产两种型号的处理器核，在内部判断  
+class Factory  
+{  
+public:   
+	SingleCore* CreateSingleCore(enum CTYPE ctype)  
+	{  
+		if(ctype == COREA) //工厂内部判断  
+			return new SingleCoreA(); //生产核A  
+		else if(ctype == COREB)  
+			return new SingleCoreB(); //生产核B  
+		else  
+			return NULL;  
+	}  
+};
+
+```
+
+UML图:[https://i.imgur.com/MnISnsy.png](https://i.imgur.com/MnISnsy.png)
+
+[https://i.imgur.com/sZZmMSN.png](https://i.imgur.com/sZZmMSN.png)
+
+这样设计的主要缺点就是要增加新的核类型时，就需要修改工厂类。这就违反了开放封闭原则：软件实体（类、模块、函数）可以扩展，但是不可修改。于是，工厂方法模式出现了。
+
+所谓工厂方法模式，是指定义一个用于创建对象的接口，让子类决定实例化哪一个类。Factory Method使一个类的实例化延迟到其子类。
+
+这家生产处理器核的产家赚了不少钱，于是决定再开设一个工厂专门用来生产B型号的单核，而原来的工厂专门用来生产A型号的单核。这时，客户要做的是找好工厂，比如要A型号的核，就找A工厂要；否则找B工厂要，不再需要告诉工厂具体要什么型号的处理器核了。下面给出一个实现方案。
+
+## 工厂方法的UML图：
+
+[https://i.imgur.com/L99COrs.png](https://i.imgur.com/L99COrs.png)
+
+```
+// 工厂方法模式 Factory Method Pattern
+class SingleCore  
+{  
+public:  
+	virtual void Show() = 0;
+};  
+
+//单核A  
+class SingleCoreA: public SingleCore  
+{  
+public:  
+	void Show() { cout<<"SingleCore A"<<endl; }  
+};  
+
+//单核B  
+class SingleCoreB: public SingleCore  
+{  
+public:  
+	void Show() { cout<<"SingleCore B"<<endl; }  
+};  
+
+class Factory  
+{  
+public:  
+	virtual SingleCore* CreateSingleCore() = 0;
+};  
+
+//生产A核的工厂  
+class FactoryA: public Factory  
+{  
+public:  
+	SingleCoreA* CreateSingleCore() { return new SingleCoreA; }  
+};  
+
+//生产B核的工厂  
+class FactoryB: public Factory  
+{  
+public:  
+	SingleCoreB* CreateSingleCore() { return new SingleCoreB; }  
+};
+
+```
+
+UML:[https://i.imgur.com/icEIv3q.png](https://i.imgur.com/icEIv3q.png)
+
+工厂方法模式也有缺点，每增加一种产品，就需要增加一个对象的工厂。如果这家公司发展迅速，推出了很多新的处理器核，那么就要开设相应的新工厂。在C++实现中，就是要定义一个个的工厂类。显然，相比简单工厂模式，工厂方法模式需要更多的类定义。
+
+既然有了简单工厂模式和工厂方法模式，为什么还要有抽象工厂模式呢？它到底有什么作用呢？还是举这个例子，这家公司的技术不断进步，不仅可以生产单核处理器，也能生产多核处理器。现在简单工厂模式和工厂方法模式都鞭长莫及。抽象工厂模式登场了。
+
+它的定义为提供一个创建一系列相关或相互依赖对象的接口，而无需指定它们具体的类。具体这样应用，这家公司还是开设两个工厂，一个专门用来生产A型号的单核多核处理器，而另一个工厂专门用来生产B型号的单核多核处理器，下面给出实现的代码。
+
+## 抽象工厂模式的UML图:
+
+[https://i.imgur.com/dvatYWx.png](https://i.imgur.com/dvatYWx.png)
+
+```
+// 抽象工厂模式 Abstract Factory
+//单核  
+class SingleCore
+{
+public:
+	virtual void Show() = 0;
+};
+
+class SingleCoreA : public SingleCore
+{
+public:
+	void Show() { cout << "Single Core A" << endl; }
+};
+
+class SingleCoreB :public SingleCore
+{
+public:
+	void Show() { cout << "Single Core B" << endl; }
+};
+
+//多核  
+class MultiCore
+{
+public:
+	virtual void Show() = 0;
+};
+
+class MultiCoreA : public MultiCore
+{
+public:
+	void Show() { cout << "Multi Core A" << endl; }
+};
+
+class MultiCoreB : public MultiCore
+{
+public:
+	void Show() { cout << "Multi Core B" << endl; }
+};
+
+//工厂  
+class CoreFactory
+{
+public:
+	virtual SingleCore* CreateSingleCore() = 0;
+	virtual MultiCore* CreateMultiCore() = 0;
+};
+
+//工厂A，专门用来生产A型号的处理器  
+class FactoryA :public CoreFactory
+{
+public:
+	SingleCore* CreateSingleCore() { return new SingleCoreA(); }
+	MultiCore* CreateMultiCore() { return new MultiCoreA(); }
+};
+
+//工厂B，专门用来生产B型号的处理器  
+class FactoryB : public CoreFactory
+{
+public:
+	SingleCore* CreateSingleCore() { return new SingleCoreB(); }
+	MultiCore* CreateMultiCore() { return new MultiCoreB(); }
+};
+
+```
+
+UML:[https://i.imgur.com/LkNNVhT.png](https://i.imgur.com/LkNNVhT.png)
+
+抽象工厂模式(Abstract Factory Pattern)：提供一个创建一系列相关或相互依赖对象的接口，而无须指定它们具体的类。抽象工厂模式又称为Kit模式，属于对象创建型模式。
+
+抽象工厂模式隔离了具体类的生成，使得客户并不需要知道什么被创建。由于这种隔离，更换一个具体工厂就变得相对容易。所有的具体工厂都实现了抽象工厂中定义的那些公共接口，因此只需改变具体工厂的实例，就可以在某种程度上改变整个软件系统的行为。另外，应用抽象工厂模式可以实现高内聚低耦合的设计目的
+
+**缺点**:在添加新的产品对象时，难以扩展抽象工厂来生产新种类的产品，这是因为在抽象工厂角色中规定了所有可能被创建的产品集合，要支持新种类的产品就意味着要对该接口进行扩展，而这将涉及到对抽象工厂角色及其所有子类的修改，显然会带来较大的不便。开闭原则的倾斜性（增加新的工厂和产品族容易，增加新的产品等级结构麻烦）。
+
+[https://blog.csdn.net/wuzhekai1985/article/details/6660462](https://blog.csdn.net/wuzhekai1985/article/details/6660462)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tv6k/)
+
+GitHub源码:
+[https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v5y4l/)·edited 6 days ago
+
+# 1\. 简单工厂模式( Simple Factory Pattern )
+
+创建型模式
+[http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/simple_factory.html](http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/simple_factory.html)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v5z5e/)·edited 6 days ago
+
+# 2\. 工厂方法模式(Factory Method Pattern)
+
+创建型模式
+[http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/factory_method.html](http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/factory_method.html)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v60ur/)·edited 6 days ago
+
+# 3\. 抽象工厂模式(Abstract Factory)
+
+创建型模式
+[http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/abstract_factory.html](http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/abstract_factory.html)
+
+
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v8my3/)·edited 6 days ago
+
+# 建造者模式 Builder Pattern
+
+> 创建型模式，共五种：
+> 工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式。
+
+将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。
+
+建造者模式的定义将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示。
+《大话设计模式》举了一个很好的例子——建造小人，一共需建造6个部分，头部、身体、左右手、左右脚。
+
+与工厂模式不同，建造者模式是在导向者的控制下一步一步构造产品的。建造小人就是在控制下一步步构造出来的。
+创建者模式可以能更精细的控制构建过程，从而能更精细的控制所得产品的内部结构。
+下面给出建造者模式的UML图，以建造小人为实例。
+
+[https://i.imgur.com/FAfK2Qp.png](https://i.imgur.com/FAfK2Qp.png)
+
+[https://imgur.com/uNfRZrW](https://imgur.com/uNfRZrW)
+
+对于客户来说，只需知道导向者就可以了，通过导向者，客户就能构造复杂的对象，而不需要知道具体的构造过程。
+下面给出小人例子的代码实现。
+
+* * *
+
+```
+class Builder  
+{
+public:
+	virtual void BuildHead() {}
+	virtual void BuildBody() {}
+	virtual void BuildLeftArm(){}
+	virtual void BuildRightArm() {}
+	virtual void BuildLeftLeg() {}
+	virtual void BuildRightLeg() {}
+};
+
+//构造瘦人
+class ThinBuilder : public Builder
+{
+public:
+	void BuildHead() { cout<<"build thin body"<<endl; }
+	void BuildBody() { cout<<"build thin head"<<endl; }
+	void BuildLeftArm() { cout<<"build thin leftarm"<<endl; }
+	void BuildRightArm() { cout<<"build thin rightarm"<<endl; }
+	void BuildLeftLeg() { cout<<"build thin leftleg"<<endl; }
+	void BuildRightLeg() { cout<<"build thin rightleg"<<endl; }
+};
+
+//构造胖人
+class FatBuilder : public Builder
+{
+public:
+	void BuildHead() { cout<<"build fat body"<<endl; }
+	void BuildBody() { cout<<"build fat head"<<endl; }
+	void BuildLeftArm() { cout<<"build fat leftarm"<<endl; }
+	void BuildRightArm() { cout<<"build fat rightarm"<<endl; }
+	void BuildLeftLeg() { cout<<"build fat leftleg"<<endl; }
+	void BuildRightLeg() { cout<<"build fat rightleg"<<endl; }
+};
+
+//构造的指挥官
+class Director  
+{
+private:
+	Builder *m_pBuilder;
+public:
+	Director(Builder *builder) { m_pBuilder = builder; }
+	void Create(){
+		m_pBuilder->BuildHead();
+		m_pBuilder->BuildBody();
+		m_pBuilder->BuildLeftArm();
+		m_pBuilder->BuildRightArm();
+		m_pBuilder->BuildLeftLeg();
+		m_pBuilder->BuildRightLeg();
+	}
+};
+
+// 客户的使用方式;
+
+int main()
+{
+	FatBuilder thin;
+	Director director(&thin);
+	director.Create();
+	return 0;
+}
+
+```
+
+* * *
+
+建造者模式包含如下角色：
+
+Builder：抽象建造者 ConcreteBuilder：具体建造者 Director：指挥者 Product：产品角色
+
+**优点**
+在建造者模式中， 客户端不必知道产品内部组成的细节，将产品本身与产品的创建过程解耦，使得相同的创建过程可以创建不同的产品对象。
+每一个具体建造者都相对独立，而与其他的具体建造者无关，因此可以很方便地替换具体建造者或增加新的具体建造者， 用户使用不同的具体建造者即可得到不同的产品对象 。
+可以更加精细地控制产品的创建过程 。将复杂产品的创建步骤分解在不同的方法中，使得创建过程更加清晰，也更方便使用程序来控制创建过程。
+增加新的具体建造者无须修改原有类库的代码，指挥者类针对抽象建造者类编程，系统扩展方便，符合“开闭原则”。
+
+**缺点**
+建造者模式所创建的产品一般具有较多的共同点，其组成部分相似，如果产品之间的差异性很大，则不适合使用建造者模式，因此其使用范围受到一定的限制。
+如果产品的内部变化复杂，可能会导致需要定义很多具体建造者类来实现这种变化，导致系统变得很庞大。
+
+**适用环境**
+在以下情况下可以使用建造者模式：
+
+需要生成的产品对象有复杂的内部结构，这些产品对象通常包含多个成员属性。
+需要生成的产品对象的属性相互依赖，需要指定其生成顺序。
+对象的创建过程独立于创建该对象的类。在建造者模式中引入了指挥者类，将创建过程封装在指挥者类中，而不在建造者类中。
+隔离复杂对象的创建和使用，并使得相同的创建过程可以创建不同的产品。
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tvne/)
+
+> GitHub源码:[https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v8ugw/)·edited 6 days ago
+
+# 建造者模式 (Builder Pattern)
+
+[http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/builder.html](http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/builder.html)
+
+> 创建型模式，共五种：
+> 工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式。
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v8vs0/)
+
+
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3v8vvw/)
+
+
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vgqzz/)·edited 2 days ago
+
+# 单例模式 (Singleton Pattern)
+
+> 创建型模式，共五种：
+> 工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式。
+
+单例模式确保某一个类只有一个实例，而且自行实例化并向整个系统提供这个实例，这个类称为单例类，它提供全局访问的方法。
+单例模式的要点有三个：
+一是某个类只能有一个实例；二是它必须自行创建这个实例；三是它必须自行向整个系统提供这个实例。
+
+单例模式是一种对象创建型模式。 单例模式又名单件模式或单态模式。
+单例的一般实现比较简单，下面是代码和UML图。由于构造函数是私有的，因此无法通过构造函数实例化，唯一的方法就是通过调用静态函数GetInstance。
+[https://imgur.com/4qdtmyF.png](https://imgur.com/4qdtmyF.png)
+
+[https://imgur.com/4bdeueA.png](https://imgur.com/4bdeueA.png)
+
+* * *
+
+```
+#include <iostream>
+using namespace std;
+
+class Singleton
+{
+public:
+	static Singleton* GetInstance(const char* name);
+	virtual void Show() {}
+protected:  //必须为保护，如果是私有属性，子类无法访问父类的构造函数
+	Singleton() {}
+private:
+	static Singleton *singleton; //唯一实例的指针
+};
+
+Singleton* Singleton::singleton = NULL;
+
+Singleton* Singleton::GetInstance(const char* name)
+{
+	if (singleton == NULL)
+	{
+		if (strcmp(name, "SingletonA") == 0)
+			singleton = new SingletonA();
+		else if (strcmp(name, "SingletonB") == 0)
+			singleton = new SingletonB();
+		else
+			singleton = new Singleton();
+	}
+	return singleton;
+}
+
+class SingletonA : public Singleton
+{
+	friend class Singleton; //必须为友元类，否则父类无法访问子类的构造函数
+public:
+	void Show() { cout << "SingletonA" << endl; }
+private:   //为保护属性，这样外界无法通过构造函数进行实例化
+	SingletonA() {}
+};
+
+class SingletonB : public Singleton
+{
+	friend class Singleton; //必须为友元类，否则父类无法访问子类的构造函数
+public:
+	void Show() { cout << "SingletonB" << endl; }
+private:  //为保护属性，这样外界无法通过构造函数进行实例化
+	SingletonB() {}
+};
+
+int main()
+{
+	Singleton *st = Singleton::GetInstance("SingletonA");
+	st->Show();
+	return 0;
+}
+
+```
+
+单例模式的目的是保证一个类仅有一个实例，并提供一个访问它的全局访问点。单例模式包含的角色只有一个，就是单例类——Singleton。
+单例类拥有一个私有构造函数，确保用户无法通过new关键字直接实例化它。
+除此之外，该模式中包含一个静态私有成员变量与静态公有的工厂方法，该工厂方法负责检验实例的存在性并实例化自己，然后存储在静态成员变量中，以确保只有一个实例被创建。
+
+**优点** 提供了对唯一实例的受控访问。因为单例类封装了它的唯一实例，所以它可以严格控制客户怎样以及何时访问它，并为设计及开发团队提供了共享的概念。
+由于在系统内存中只存在一个对象，因此可以节约系统资源，对于一些需要频繁创建和销毁的对象，单例模式无疑可以提高系统的性能。
+允许可变数目的实例。我们可以基于单例模式进行扩展，使用与单例控制相似的方法来获得指定个数的对象实例。
+
+**缺点**
+由于单例模式中没有抽象层，因此单例类的扩展有很大的困难。
+单例类的职责过重，在一定程度上违背了“单一职责原则”。因为单例类既充当了工厂角色，提供了工厂方法，同时又充当了产品角色，包含一些业务方法，将产品的创建和产品的本身的功能融合到一起。
+滥用单例将带来一些负面问题，如为了节省资源将数据库连接池对象设计为单例类，可能会导致共享连接池对象的程序过多而出现连接池溢出；
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tvw0/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vgv3h/)
+
+# 三种单例模式的C++实现 - CSDN博客
+
+[https://blog.csdn.net/q_l_s/article/details/52369065](https://blog.csdn.net/q_l_s/article/details/52369065)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vgzm5/)
+
+# 三种单例模式的C++实现
+
+#### 常用的三种，分别是饿汉式、懒汉式和多线程式。
+
+通过单例模式， 可以做到：
+
+1.  确保一个类只有一个实例被建立
+
+2.  提供了一个对对象的全局访问指针
+
+3.  在不影响单例类的客户端的情况下允许将来有多个实例
+
+* * *
+
+### 懒汉式
+
+懒汉式的特点是延迟加载，比如配置文件，采用懒汉式的方法，顾名思义，懒汉么，很懒的，配置文件的实例直到用到的时候才会加载
+
+```
+class CSingleton  
+{  
+public:  
+static CSingleton* GetInstance()  
+{  
+     if ( m_pInstance == NULL )    
+         m_pInstance = new CSingleton();  
+     return m_pInstance;  
+}  
+private:  
+    CSingleton(){};  
+    static CSingleton * m_pInstance;  
+};  
+
+```
+
+GetInstance()使用懒惰初始化，也就是说它的返回值是当这个函数首次被访问时被创建的。这是一种防弹设计——所有GetInstance()之后的调用都返回相同实例的指针：
+
+```
+CSingleton* p1 = CSingleton :: GetInstance();
+CSingleton* p2 = p1->GetInstance();
+CSingleton & ref = * CSingleton :: GetInstance();
+
+```
+
+对GetInstance稍加修改，这个设计模板便可以适用于可变多实例情况，如一个类允许最多五个实例。
+
+代码很简单，但是会存在内存泄漏的问题，new出来的东西始终没有释放，
+
+下面是一种饿汉式的一种改进。
+
+```
+class CSingleton    
+{    
+private:    
+    CSingleton()    
+    {    
+    }    
+    static CSingleton *m_pInstance;    
+    class CGarbo     
+    {    
+    public:    
+        ~CGarbo()    
+        {    
+            if(CSingleton::m_pInstance)    
+                delete CSingleton::m_pInstance;    
+        }    
+    };    
+    static CGarbo Garbo;     
+public:    
+    static CSingleton * GetInstance()    
+    {    
+        if(m_pInstance == NULL)    
+            m_pInstance = new CSingleton();    
+        return m_pInstance;    
+    }    
+};    
+
+```
+
+在程序运行结束时，系统会调用CSingleton的静态成员Garbo的析构函数，该析构函数会删除单例的唯一实例。使用这种方法释放单例对象有以下特征： 1.在单例类内部定义专有的嵌套类。
+2.在单例类内定义私有的专门用于释放的静态成员。
+3.利用程序在结束时析构全局变量的特性，选择最终的释放时机。
+
+* * *
+
+### 饿汉式
+
+饿汉式的特点是一开始就加载了，如果说懒汉式是“时间换空间”，那么饿汉式就是“空间换时间”，因为一开始就创建了实例，所以每次用到的之后直接返回就好了。
+
+* * *
+
+```
+class CSingleton    
+{    
+private:    
+    CSingleton()      
+    {    
+    }    
+public:    
+    static CSingleton * GetInstance()    
+    {    
+        static CSingleton instance;     
+        return &instance;    
+    }    
+};    
+
+```
+
+饿汉式是线程安全的,在类创建的同时就已经创建好一个静态的对象供系统使用,以后不再改变，懒汉式如果在创建实例对象时不加上synchronized则会导致对对象的访问不是线程安全的。
+
+注：线程安全的通俗解释 - 不管多个线程是怎样的执行顺序和优先级,或是wait,sleep,join等控制方式，如果一个类在多线程访问下运转一切正常，并且访问类不需要进行额外的同步处理或者协调，那么我们就认为它是线程安全的。 线程安全的类应当封装了所有必要的同步操作，调用者无需额外的同步。
+还有一点：无状态的类永远是线程安全的。
+
+在饿汉式的单例类中，其实有两个状态，单例未初始化和单例已经初始化。假设单例还未初始化，有两个线程同时调用GetInstance方法，这时执行 m_pInstance == NULL 肯定为真，然后两个线程都初始化一个单例，最后得到的指针并不是指向同一个地方，不满足单例类的定义了，所以饿汉式的写法会出现线程安全的问题！在多线程环境下，要对其进行修改。
+
+* * *
+
+### 多线程下的单例模式
+
+这里要处理的是懒汉模式。
+
+```
+class Singleton  
+{  
+private:  
+    static Singleton* m_instance;  
+    Singleton(){}  
+public:  
+    static Singleton* getInstance();  
+};  
+
+Singleton* Singleton::getInstance()  
+{  
+    if(NULL == m_instance)  
+    {  
+        Lock();//借用其它类来实现，如boost  
+        if(NULL == m_instance)  
+        {  
+            m_instance = new Singleton;  
+        }  
+        UnLock();  
+    }  
+    return m_instance;  
+}  
+
+```
+
+使用double-check来保证thread safety.但是如果处理大量数据时，该锁才成为严重的性能瓶颈。
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vhexs/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vhh6z/)
+
+**
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vhh9e/)
+
+--
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vhhcz/)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vhkuz/)·edited 3 days ago
+
+# 原型模式（Prototype Pattern）
+
+又称 模板方法模式
+
+> 创建型模式，共五种：
+> 工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式。
+
+用原型实例指定创建对象的种类，并且通过拷贝这些原型创建新的对象。是用于创建重复的对象，同时又能保证性能。
+
+这种类型的设计模式属于创建型模式，它提供了一种创建对象的最佳方式。这种模式是实现了一个原型接口，该接口用于创建当前对象的克隆。当直接创建对象的代价比较大时，则采用这种模式。
+
+例如，一个对象需要在一个高代价的数据库操作之后被创建。我们可以缓存该对象，在下一个请求时返回它的克隆，在需要的时候更新数据库，以此来减少数据库调用。
+
+UML图:
+[https://i.imgur.com/2jlQ0fX.png](https://i.imgur.com/2jlQ0fX.png)
+
+原型模式实现的关键就是实现Clone函数，对于C++来说，其实就是拷贝构造函数，需实现深拷贝，下面给出一种实现。
+
+```
+
+#include <iostream>
+using namespace std;
+
+//父类  
+class Resume
+{
+protected:
+	char *name;
+public:
+	Resume() {}
+	virtual ~Resume() {}
+	virtual Resume* Clone() { return NULL; }
+	virtual void Set(char *n) {}
+	virtual void Show() {}
+};
+
+class ResumeA : public Resume
+{
+public:
+	ResumeA(const char *str);  //构造函数  
+	ResumeA(const ResumeA &r); //拷贝构造函数  
+	~ResumeA();                //析构函数  
+	ResumeA* Clone();          //克隆，关键所在  
+	void Show();               //显示内容  
+};
+
+ResumeA::ResumeA(const char *str)
+{
+	if (str == NULL) {
+		name = new char[1];
+		name[0] = '\0';
+	}
+	else {
+		name = new char[strlen(str) + 1];
+		strcpy(name, str);
+	}
+}
+
+ResumeA::~ResumeA() { delete[] name; }
+ResumeA::ResumeA(const ResumeA &r) {
+	name = new char[strlen(r.name) + 1];
+	strcpy(name, r.name);
+}
+
+ResumeA* ResumeA::Clone() {
+	return new ResumeA(*this);
+}
+
+void ResumeA::Show() {
+	cout << "ResumeA name : " << name << endl;
+}
+
+class ResumeB : public Resume
+{
+public:
+	ResumeB(const char *str);  //构造函数  
+	ResumeB(const ResumeB &r); //拷贝构造函数  
+	~ResumeB();                //析构函数  
+	ResumeB* Clone();          //克隆，关键所在  
+	void Show();               //显示内容  
+};
+
+ResumeB::ResumeB(const char *str)
+{
+	if (str == NULL) {
+		name = new char[1];
+		name[0] = '\0';
+	}
+	else {
+		name = new char[strlen(str) + 1];
+		strcpy(name, str);
+	}
+}
+
+ResumeB::~ResumeB() { delete[] name; }
+
+ResumeB::ResumeB(const ResumeB &r) {
+	name = new char[strlen(r.name) + 1];
+	strcpy(name, r.name);
+}
+
+ResumeB* ResumeB::Clone() {
+	return new ResumeB(*this);
+}
+
+void ResumeB::Show() {
+	cout << "ResumeB name : " << name << endl;
+}
+
+int main(int argc, char* argv[])
+{
+	Resume *r1 = new ResumeA("A");
+	Resume *r2 = new ResumeB("B");
+	Resume *r3 = r1->Clone();
+	Resume *r4 = r2->Clone();
+
+	r1->Show(); r2->Show();
+
+	//删除r1,r2  
+	delete r1; delete r2;
+	r1 = r2 = NULL;
+
+	//深拷贝所以对r3,r4无影响  
+	r3->Show(); r4->Show();
+	delete r3; delete r4;
+	r3 = r4 = NULL;
+	return 0;
+}
+
+```
+
+**优点**
+复制自身。客户不知道需要对象的实际类型，只需知道它的抽象基类即可。(即有继承树的情况)
+
+**缺点**
+必须先有一个对象实例(即原型)才能clone。
+
+[https://blog.csdn.net/wuzhekai1985/article/details/6667020](https://blog.csdn.net/wuzhekai1985/article/details/6667020)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tw39/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vkiar/)
+
+# C++设计模式实现--原型模式 - CSDN博客
+
+> 创建型模式，共五种：
+> 工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式。
+
+[https://blog.csdn.net/cabinriver/article/details/8895372/](https://blog.csdn.net/cabinriver/article/details/8895372/)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vlan5/)·edited 3 days ago
+
+原型模式和建造者模式、工厂方法模式一样，都属于创建型模式的一种。
+简单的来说，我们使用原型模式，就是为了创建对象。
+不过，
+
+# 适合原型模式的最好选择如下：
+
+1.当我们的对象类型不是开始就能确定的，而这个类型是在运行期确定的话，那么我们通过这个类型的对象克隆出一个新的对象比较容易一些；
+
+2.有的时候，我们需要一个对象在某个状态下的副本，此时，我们使用原型模式是最好的选择；例如：一个对象，经过一段处理之后，其内部的状态发生了变化；这个时候，我们需要一个这个状态的副本，如果直接new一个新的对象的话，但是它的状态是不对的，此时，可以使用原型模式，将原来的对象拷贝一个出来，这个对象就和之前的对象是完全一致的了；
+
+3.当我们处理一些比较简单的对象时，并且对象之间的区别很小，可能就几个属性不同而已，那么就可以使用原型模式来完成，省去了创建对象时的麻烦了；
+
+4.有的时候，创建对象时，构造函数的参数很多，而自己又不完全的知道每个参数的意义，就可以使用原型模式来创建一个新的对象，不必去理会创建的过程。
+
+->适当的时候考虑一下原型模式，能减少对应的工作量，减少程序的复杂度，提高效率。
+
+### 适用性：
+
+1.  当一个系统应该独立于他的产品创建、构成和表示时，需要使用原型模式
+
+2.  当要实例化的类是在运行时刻指定时，如通过动态装载
+
+3\. 为了避免创建一个与产品类层次平行的工厂类层次时
+
+4\. 当一个类的实例只能有几个不同状态组合中的一种时，建立相应数目的原型并克隆他们可能比每次用合适的状态手工实例化该类更方便一些。
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vlbtb/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vlbuk/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vlbwe/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vld0x/)
+
+# 结构型模式(Structural Pattern)
+
+结构型模式(Structural Pattern)描述如何将类或者对 象结合在一起形成更大的结构，就像搭积木，可以通过 简单积木的组合形成复杂的、功能更为强大的结构。
+
+结构型模式可以分为类结构型模式和对象结构型模式：
+
+类结构型模式关心类的组合，由多个类可以组合成一个更大的
+系统，在类结构型模式中一般只存在继承关系和实现关系。 - 对象结构型模式关心类与对象的组合，通过关联关系使得在一 个类中定义另一个类的实例对象，然后通过该对象调用其方法。 根据“合成复用原则”，在系统中尽量使用关联关系来替代继 承关系，因此大部分结构型模式都是对象结构型模式。
+
+## 包含模式
+
+适配器模式(Adapter)
+重要程度：4
+
+桥接模式(Bridge)
+重要程度：3
+
+组合模式(Composite)
+重要程度：4
+
+装饰模式(Decorator)
+重要程度：3
+
+外观模式(Facade)
+重要程度：5
+
+享元模式(Flyweight)
+重要程度：1
+
+代理模式(Proxy)
+重要程度：4
+
+[https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/structural.html](https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/structural.html)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vldov/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vm52m/)·edited 2 days ago
+
+# 适配器模式(Adapter Pattern)
+
+> 结构型模式，共六种：
+
+1.  适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+将一个接口转换成客户希望的另一个接口，适配器模式使接口不兼容的那些类可以一起工作，其别名为包装器(Wrapper)。 它包括类适配器和对象适配器
+
+适配器模式既可以作为类结构型模式，也可以作为对象结构型模式。
+
+* * *
+
+## 模式动机
+
+在软件开发中采用类似于电源适配器的设计和编码技巧被称为适配器模式。通常情况下，客户端可以通过目标类的接口访问它所提供的服务。有时，现有的类可以满足客户类的功能需要，但是它所提供的接口不一定是客户类所期望的，这可能是因为现有类中方法名与目标类中定义的方法名不一致等原因所导致的。在这种情况下，现有的接口需要转化为客户类期望的接口，这样保证了对现有类的重用。如果不进行这样的转化，客户类就不能利用现有类所提供的功能，适配器模式可以完成这样的转化。
+
+在适配器模式中可以定义一个**包装类**，包装不兼容接口的对象，这个包装类指的就是**适配器(Adapter)**，它所包装的对象就是**适配者(Adaptee)**，即被适配的类。适配器提供客户类需要的接口，适配器的实现就是把客户类的请求转化为对适配者的相应接口的调用。
+也就是说：当客户类调用适配器的方法时，在适配器类的内部将调用适配者类的方法，而这个过程对客户类是透明的，客户类并不直接访问适配者类。因此，**适配器可以使由于接口不兼容而不能交互的类可以一起工作**。这就是适配器模式的模式动机。
+
+就好比，充电器是香港买的三孔插头，但是你现在在国内，只有二孔插座，那么适配器就是让你的三孔插头变成二孔插头，然后成功和二孔插座适配读卡器是作为内存卡和笔记本之间的适配器。您将内存卡插入读卡器，再将读卡器插入笔记本，这样就可以通过笔记本来读取内存卡。
+
+举个例子，在STL中就用到了适配器模式。STL实现了一种数据结构，称为双端队列（deque），支持前后两段的插入与删除。STL实现栈和队列时，没有从头开始定义它们，而是直接使用双端队列实现的。这里双端队列就扮演了适配器的角色。队列用到了它的后端插入，前端删除。而栈用到了它的后端插入，后端删除。假设栈和队列都是一种顺序容器，有两种操作：压入和弹出。下面给出相应的UML图，与DP上的图差不多。
+[https://imgur.com/OkMGFbI](https://imgur.com/OkMGFbI)
+
+```
+// 适配器模式(Adapter Pattern)
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+//双端队列
+class Deque
+{
+public:
+	void push_back(int x) { cout << "Deque push_back" << endl; }
+	void push_front(int x) { cout << "Deque push_front" << endl; }
+	void pop_back() { cout << "Deque pop_back" << endl; }
+	void pop_front() { cout << "Deque pop_front" << endl; }
+};
+
+//顺序容器
+class Sequence
+{
+public:
+	virtual void push(int x) = 0;
+	virtual void pop() = 0;
+};
+
+//栈
+class Stack : public Sequence
+{
+public:
+	void push(int x) { deque.push_back(x); }
+	void pop() { deque.pop_back(); }
+private:
+	Deque deque; //双端队列
+};
+
+//队列
+class Queue : public Sequence
+{
+public:
+	void push(int x) { deque.push_back(x); }
+	void pop() { deque.pop_front(); }
+private:
+	Deque deque; //双端队列
+};
+
+////////////////////////////////
+
+int main()
+{
+	Sequence *s1 = new Stack();
+	Sequence *s2 = new Queue();
+	s1->push(1); s1->pop();
+	s2->push(1); s2->pop();
+	delete s1; delete s2;
+	return 0;
+}
+
+```
+
+**优点**将目标类和适配者类解耦，通过引入一个适配器类来重用现有的适配者类，而无须修改原有代码。增加了类的透明性和复用性，将具体的实现封装在适配者类中，对于客户端类来说是透明的，而且提高了适配者的复用性。灵活性和扩展性都非常好，通过使用配置文件，可以很方便地更换适配器，也可以在不修改原有代码的基础上增加新的适配器类，完全符合“开闭原则”。
+
+类适配器模式还具有如下优点：由于适配器类是适配者类的子类，因此可以在适配器类中置换一些适配者的方法，使得适配器的灵活性更强。对象适配器模式还具有如下优点：一个对象适配器可以把多个不同的适配者适配到同一个目标，也就是说，同一个适配器可以把适配者类和它的子类都适配到目标接口。
+
+**缺点**类适配器模式的缺点如下：对于Java、C#等不支持多重继承的语言，一次最多只能适配一个适配者类，而且目标抽象类只能为抽象类，不能为具体类，其使用有一定的局限性，不能将一个适配者类和它的子类都适配到目标接口。对象适配器模式的缺点如下：与类适配器模式相比，要想置换适配者类的方法就不容易。如果一定要置换掉适配者类的一个或多个方法，就只好先做一个适配者类的子类，将适配者类的方法置换掉，然后再把适配者类的子类当做真正的适配者进行适配，实现过程较为复杂。
+
+**适用环境**在以下情况下可以使用适配器模式：
+
+系统需要使用现有的类，而这些类的接口不符合系统的需要。想要建立一个可以重复使用的类，用于与一些彼此之间没有太大关联的一些类，包括一些可能在将来引进的类一起工作。
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vnru0/)
+
+[https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/adapter.html](https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/adapter.html)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43twaf/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vmcid/)
+
+## 适配器模式(Adapter Pattern) 例:
+
+UML:
+[https://i.imgur.com/NoGeqYD.png](https://i.imgur.com/NoGeqYD.png)
+
+```
+#include <iostream>
+using namespace std;
+
+// "ITarget"
+class Target
+{
+public:
+	virtual void Request() {};
+};
+
+// "Adaptee"
+class Adaptee
+{
+public:
+	void SpecificRequest()
+	{
+		cout << "Called SpecificRequest()" << endl;
+	}
+};
+
+// "Adapter"
+class Adapter : public Adaptee, public Target
+{
+public:
+	// Implements ITarget interface
+	void Request()
+	{
+		// Possibly do some data manipulation
+		// and then call SpecificRequest  
+		this->SpecificRequest();
+	}
+};
+
+int main()
+{
+	// Create adapter and place a request
+	Target *t = new Adapter();
+	t->Request();
+
+	return 0;
+}
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43twek/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vmxje/)·edited 5 days ago
+
+# 适配器模式(Adapter Pattern) 例:
+
+充电器是香港买的三孔英式插头CEnOutlet，但是你现在在国内，只有二孔中式插座CCnOutlet，
+那么适配器就是让你的三孔英式插头变成二孔中式插头，然后成功和二孔中式插座适配
+
+适配器模式包含如下角色：
+
+Target：目标抽象类
+Adapter：适配器类
+Adaptee：适配者类
+Client：客户类
+
+UML:
+[https://i.imgur.com/IJYDpXg.png](https://i.imgur.com/IJYDpXg.png)
+
+* * *
+
+```
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+// --------------------
+// Adaptee：适配者类 英式插头
+class CEnOutletAdaptee
+{
+public:
+	void EnPlug()
+	{
+		cout << "use en plug" << endl;
+	}
+};
+// --------------------
+// Target：目标抽象类  中式插座
+class CCnOutletTarget
+{
+public:
+	virtual ~CCnOutletTarget(){};
+	virtual void Cnplug()
+	{
+		cout << "中式插座！" << endl;
+	};
+};
+// --------------------
+// Adapter：适配器类
+class CCnOutletAdapter : public CCnOutletTarget
+{
+public:
+	CCnOutletAdapter(CEnOutletAdaptee* pEnOutletAdaptee):
+                   m_pEnOutletAdaptee(pEnOutletAdaptee) {};
+	virtual ~CCnOutletAdapter() {};
+
+	virtual void Cnplug()
+	{
+		cout << "adapter transfer" << endl;
+		m_pEnOutletAdaptee->EnPlug();
+	}
+
+private:
+	CEnOutletAdaptee* m_pEnOutletAdaptee;
+};
+
+// --------------------
+int main()
+{
+	CEnOutletAdaptee *pEnOutletAdaptee = new CEnOutletAdaptee;
+
+	CCnOutletTarget *pCnOutletTarget = new CCnOutletTarget();
+	//CCnOutletTarget *pCnOutletTarget = new CCnOutletAdapter(pEnOutletAdaptee);
+
+	pCnOutletTarget->Cnplug();
+
+	delete pEnOutletAdaptee;
+	delete pCnOutletTarget;
+
+	system("pause");
+	return 0;
+}
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43twgd/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vmyis/)·edited 6 days ago
+
+# 适配器模式(Adapter Pattern) 應用場景 練習:
+
+我们有一个 MediaPlayer 接口和一个实现了 MediaPlayer 接口的实体类 AudioPlayer。默认情况下，AudioPlayer 可以播放 mp3 格式的音频文件。
+
+我们还有另一个接口 AdvancedMediaPlayer 和实现了 AdvancedMediaPlayer 接口的实体类。该类可以播放 vlc 和 mp4 格式的文件。
+
+我们想要让 AudioPlayer 播放其他格式的音频文件。为了实现这个功能，我们需要创建一个实现了 MediaPlayer 接口的适配器类 MediaAdapter，并使用 AdvancedMediaPlayer 对象来播放所需的格式。
+
+AudioPlayer 使用适配器类 MediaAdapter 传递所需的音频类型，不需要知道能播放所需格式音频的实际类。 AdapterPatternDemo，我们的演示类使用 AudioPlayer 类来播放各种格式。
+
+UML:
+[https://imgur.com/mAU4A62](https://imgur.com/mAU4A62)
+
+[http://www.runoob.com/design-pattern/adapter-pattern.html](http://www.runoob.com/design-pattern/adapter-pattern.html)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vmyl2/)·edited 5 days ago
+
+## 适配器模式(Adapter Pattern) 應用場景 練習:
+
+[https://www.reddit.com/user/yulinxx/comments/95rw3j/设计模式_design_pattern/e3vmyis](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vmyis)
+Java 實現:
+
+```
+// 步骤 1 为媒体播放器和更高级的媒体播放器创建接口。
+public interface MediaPlayer {
+   public void play(String audioType, String fileName);
+}
+
+public interface AdvancedMediaPlayer {
+   public void playVlc(String fileName);
+   public void playMp4(String fileName);
+}
+
+// 步骤 2  创建实现了 AdvancedMediaPlayer 接口的实体类。
+public class VlcPlayer implements AdvancedMediaPlayer{
+   @Override
+   public void playVlc(String fileName) {
+      System.out.println("Playing vlc file. Name: "+ fileName);      
+   }
+
+   @Override
+   public void playMp4(String fileName) {
+      //什么也不做
+   }
+}
+
+public class Mp4Player implements AdvancedMediaPlayer{
+   @Override
+   public void playVlc(String fileName) {
+      //什么也不做
+   }
+
+   @Override
+   public void playMp4(String fileName) {
+      System.out.println("Playing mp4 file. Name: "+ fileName);      
+   }
+}
+
+// 步骤 3 创建实现了 MediaPlayer 接口的适配器类。
+public class MediaAdapter implements MediaPlayer {
+   AdvancedMediaPlayer advancedMusicPlayer;
+
+   public MediaAdapter(String audioType){
+      if(audioType.equalsIgnoreCase("vlc") ){
+         advancedMusicPlayer = new VlcPlayer();       
+      } else if (audioType.equalsIgnoreCase("mp4")){
+         advancedMusicPlayer = new Mp4Player();
+      }  
+   }
+
+   @Override
+   public void play(String audioType, String fileName) {
+      if(audioType.equalsIgnoreCase("vlc")){
+         advancedMusicPlayer.playVlc(fileName);
+      }else if(audioType.equalsIgnoreCase("mp4")){
+         advancedMusicPlayer.playMp4(fileName);
+      }
+   }
+}
+
+// 步骤 4 创建实现了 MediaPlayer 接口的实体类。
+public class AudioPlayer implements MediaPlayer {
+   MediaAdapter mediaAdapter;
+
+   @Override
+   public void play(String audioType, String fileName) {    
+
+      //播放 mp3 音乐文件的内置支持
+      if(audioType.equalsIgnoreCase("mp3")){
+         System.out.println("Playing mp3 file. Name: "+ fileName);         
+      }
+      //mediaAdapter 提供了播放其他文件格式的支持
+      else if(audioType.equalsIgnoreCase("vlc")
+         || audioType.equalsIgnoreCase("mp4")){
+         mediaAdapter = new MediaAdapter(audioType);
+         mediaAdapter.play(audioType, fileName);
+      }
+      else{
+         System.out.println("Invalid media. "+
+            audioType + " format not supported");
+      }
+   }   
+}
+
+// 步骤 5 使用 AudioPlayer 来播放不同类型的音频格式。
+public class AdapterPatternDemo {
+   public static void main(String[] args) {
+      AudioPlayer audioPlayer = new AudioPlayer();
+
+      audioPlayer.play("mp3", "beyond the horizon.mp3");
+      audioPlayer.play("mp4", "alone.mp4");
+      audioPlayer.play("vlc", "far far away.vlc");
+      audioPlayer.play("avi", "mind me.avi");
+   }
+}
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43twj9/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vmymi/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vmyo1/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vnvrl/)·edited 5 days ago
+
+# 桥接模式(Bridge Pattern)
+
+> 结构型模式，共六种：
+> 1.适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+将抽象部分与它的实现部分分离，使它们都可以独立地变化。它是一种对象结构型模式，又称为柄体(Handle and Body)模式或接口(Interface)模式。
+
+桥接模式包含如下角色：
+Abstraction：抽象类
+RefinedAbstraction：扩充抽象类
+Implementor：实现类接口
+ConcreteImplementor：具体实现类
+
+将抽象部分与它的实现部分分离，使它们都可以独立地变化。
+
+考虑装操作系统，有多种配置的计算机，同样也有多款操作系统。如何运用桥接模式呢？可以将操作系统和计算机分别抽象出来，让它们各自发展，减少它们的耦合度。
+
+当然了，两者之间有标准的接口。这样设计，不论是对于计算机，还是操作系统都是非常有利的。
+下面给出这种设计的UML图，其实就是桥接模式的UML图。
+[https://i.imgur.com/b84vtVm.png](https://i.imgur.com/b84vtVm.png)
+
+UML:
+[https://i.imgur.com/RTNciZO.png](https://i.imgur.com/RTNciZO.png)
+
+```
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+//操作系统
+class OS
+{
+public:
+	virtual void InstallOS_Imp() {}
+};
+
+class WindowOS : public OS
+{
+public:
+	void InstallOS_Imp() { cout << "安装Window操作系统" << endl; }
+};
+
+class LinuxOS : public OS
+{
+public:
+	void InstallOS_Imp() { cout << "安装Linux操作系统" << endl; }
+};
+
+//计算机
+class Computer
+{
+public:
+	virtual void InstallOS(OS *pOS) {}
+};
+
+class DellComputer : public Computer
+{
+public:
+	void InstallOS(OS *pOS) { pOS->InstallOS_Imp(); }
+};
+
+class HPComputer : public Computer
+{
+public:
+	void InstallOS(OS *pOS) { pOS->InstallOS_Imp(); }
+};
+
+// 客户使用方式：
+int main()
+{
+	OS *pOSWnd = new WindowOS();
+	OS *pOSLinux = new LinuxOS();
+
+	Computer *pDellComputer = new DellComputer();
+	pDellComputer->InstallOS(pOSWnd);
+
+	Computer *pHpComputer = new HPComputer();
+	pHpComputer->InstallOS(pOSLinux);
+	return 0;
+}
+
+```
+
+[https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/bridge.html](https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/bridge.html)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43twlm/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[6 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3vw4o6/)
+
+## placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xikui/)·edited 1 day ago
+
+# 桥接模式(Bridge Pattern)
+
+> 结构型模式，共六种：
+> 1.适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+将抽象部份与它的实现部份分离，使它们都可以独立地变化。
+UML:
+[https://i.imgur.com/PvUigIy.png](https://i.imgur.com/PvUigIy.png)
+可以看到，在桥接模式中，存着左右两棵继承树，Abstraction和Implementor，两棵继承树可以独立发展变化，互不干扰。
+
+假设现在需要大、中、小、三种型号的画笔来绘制7种不同的颜色，如果使用蜡笔，就需要准备 3*7 = 21支蜡笔。
+而如果使用毛笔，则只需要3支毛笔和7中颜料。
+
+显然使用毛笔的形式要比蜡笔简单许多，这其中缘由在于在蜡笔这个对象中型号和颜料两个不同维度的因素耦合太强，而毛笔的型号和颜色属于松耦合的关系。
+在毛笔实例中，型号大小和颜色是分离的，可以独立变化的。
+
+这就是桥接模式的**基本思想**：
+将不同维度的变化职责抽取出来形成各自的继承等级结构，从而能够让其分别独立变化。
+
+有这样的一个情景，在不同的操作系统上，音频解码的算法都是一致的，而播放声音的方法却不一致。
+我们要实现一个播放器能够在不同的操作系统上播放不同格式的音乐，这里有两个变化的维度：音频格式和操作系统。
+在学习桥接模式之前，我们的解决方案如下：
+
+UML:
+[https://i.imgur.com/Njc9INF.png](https://i.imgur.com/Njc9INF.png)
+
+显然因为我们将音频解码和播放音频的职责设计成了强耦合，于是我们的系统结构变得复杂了，这就是违反单一职责的后果。
+于是我们使用了桥接模式，将操作系统播放音频的职责抽取出来，成为一棵新的继承树，让播放音频和音频解码两个职责独立变化。
+这样播放器的音频播放部分被抽离了，也就是抽象和实现分离。
+使用了桥接模式的UML类图如下：
+
+[https://i.imgur.com/aBN0qlR.png](https://i.imgur.com/aBN0qlR.png)
+
+可以看到，使用了桥接模式之后的解决方案十分清晰明了。桥接模式的好处由于可见一斑。
+
+```
+#include <string>
+#include <iostream>
+using std::string;
+
+// ------------------------
+class OperatinSystem {
+public:
+	OperatinSystem() {};
+	virtual ~OperatinSystem() {};
+	virtual void doPlay() = 0;
+};
+
+class Linux : public OperatinSystem {
+public:
+	Linux() {};
+	virtual ~Linux() {};
+	virtual void doPlay() {
+		std::cout << " Linux" << std::endl;
+	}
+};
+
+class Unix : public OperatinSystem {
+public:
+	Unix() {};
+	virtual ~Unix() {};
+	virtual void doPlay() {
+		std::cout << " Unix" << std::endl;
+	}
+};
+
+class Windows : public OperatinSystem {
+public:
+	Windows() {};
+	virtual ~Windows() {};
+	virtual void doPlay() {
+		std::cout << " Windows" << std::endl;
+	}
+};
+
+// ------------------------
+class Player {
+protected:
+	OperatinSystem *OS;
+public:
+	Player() : OS(NULL) {};
+	virtual void setOS(OperatinSystem *os) { OS = os; }
+	virtual ~Player() {};
+
+	virtual void play() = 0;
+};
+
+class MP3Player : public Player {
+public:
+	MP3Player() {};
+	virtual ~MP3Player() {};
+	virtual void play() {
+		std::cout << "Play MP3 under ";
+		OS->doPlay();
+	}
+};
+
+class WAVPlayer : public Player {
+public:
+	WAVPlayer() {};
+	virtual ~WAVPlayer() {};
+	virtual void play() {
+		std::cout << "Play WAV under ";
+		OS->doPlay();
+	}
+};
+
+class WMAPlayer : public Player {
+public:
+	WMAPlayer() {};
+	virtual ~WMAPlayer() {};
+	virtual void play() {
+		std::cout << "Play WMA under ";
+		OS->doPlay();
+	}
+};
+// ------------------------
+int main(void)
+{
+	Player *mp3Player = new MP3Player;
+	mp3Player->setOS(new Linux);
+	mp3Player->play();
+	mp3Player->setOS(new Windows);
+	mp3Player->play();
+	mp3Player->setOS(new Unix);
+	mp3Player->play();
+
+	Player *wmalayer = new WMAPlayer;
+	wmalayer->setOS(new Linux);
+	wmalayer->play();
+	wmalayer->setOS(new Windows);
+	wmalayer->play();
+	wmalayer->setOS(new Unix);
+	wmalayer->play();
+
+	Player *wavPlayer = new WAVPlayer;
+	wavPlayer->setOS(new Linux);
+	wavPlayer->play();
+	wavPlayer->setOS(new Windows);
+	wavPlayer->play();
+	wavPlayer->setOS(new Unix);
+	wavPlayer->play();
+
+	return 0;
+}
+
+/*
+运行结果:
+Play MP3 under  Linux
+Play MP3 under  Windows
+Play MP3 under  Unix
+Play WMA under  Linux
+Play WMA under  Windows
+Play WMA under  Unix
+Play WAV under  Linux
+Play WAV under  Windows
+Play WAV under  Unix
+*/
+
+```
+
+**桥接模式的优点 ：**
+
+分离了抽象和实现。桥接模式使用了聚合代替了原本类间的绑定关系（继承具有侵入性），实现松耦合。
+
+变化的因素之间相互隔离，独立变化，方便拓展。桥接模式在增加系统的新实现的时候，不需要修改已有类，符合开闭原则。
+
+**桥接模式的适用场景：**
+当继承树过于复杂时，应该考虑使用桥接模式。当一个类中存在着多个变化的维度的时候，应该考虑桥接模式。
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43twq6/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xinwv/)
+
+# C++ 设计模式之桥接模式
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xisck/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xisfj/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xisqp/)
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xisty/)
+
+placeholder2
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xisxj/)
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xj2sc/)
+
+# 装饰模式(Decorator Pattern)
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xj3rn/)·edited 5 days ago
+
+# 装饰模式(Decorator Pattern)
+
+> 结构型模式，共六种：
+> 1.适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+动态地给一个对象添加一些额外的职责(Responsibility)。
+就增加功能来说，装饰模式相比生成子类更为灵活。其别名也可以称为包装器(Wrapper)，与适配器模式的别名相同，但它们适用于不同的场合。
+它是一种对象结构型模式。
+
+已经开发完毕的对象，后期由于业务需要，对旧的对象需要扩展特别多的功能，这时候使用给对象动态地添加新的状态或者行为（即装饰模式）方法，而不是使用子类静态继承。
+
+装饰模式包含如下角色：
+
+Component: 抽象构件
+ConcreteComponent: 具体构件
+Decorator: 抽象装饰类
+ConcreteDecorator: 具体装饰类
+
+UML图:
+[https://i.imgur.com/x3CJTzG.png](https://i.imgur.com/x3CJTzG.png)
+
+有时我们希望给某个对象而不是整个类添加一些功能。
+比如有一个手机，允许你为手机添加特性，比如增加挂件、屏幕贴膜等。
+
+一种灵活的设计方式是，将手机嵌入到另一对象中，由这个对象完成特性的添加，我们称这个嵌入的对象为装饰。
+这个装饰与它所装饰的组件接口一致，因此它对使用该组件的客户透明。
+下面给出装饰模式的UML图。
+[https://i.imgur.com/xc9bCAr.png](https://i.imgur.com/xc9bCAr.png)
+
+```
+#include <string>
+#include <iostream>
+using namespace std;
+
+// --------------------------
+// 公共抽象类
+class Phone
+{
+public:
+	Phone() {}
+	virtual ~Phone() {}
+	virtual void ShowDecorate() {}
+};
+
+// --------------------------
+// 具体的手机类的定义：
+
+//具体的手机类
+class iPhone : public Phone
+{
+private:
+	string m_name; //手机名称
+public:
+	iPhone(string name) : m_name(name) {}
+	~iPhone() {}
+	void ShowDecorate() { cout << m_name << "的装饰" << endl; }
+};
+
+// 具体的手机类
+class NokiaPhone : public Phone
+{
+private:
+	string m_name;
+public:
+	NokiaPhone(string name) : m_name(name) {}
+	~NokiaPhone() {}
+	void ShowDecorate() { cout << m_name << "的装饰" << endl; }
+};
+
+// --------------------------
+// 装饰类的实现：
+
+//装饰类
+class DecoratorPhone : public Phone
+{
+private:
+	Phone *m_phone;  //要装饰的手机
+public:
+	DecoratorPhone(Phone *phone) : m_phone(phone) {}
+	virtual void ShowDecorate() { m_phone->ShowDecorate(); }
+};
+// --------------------------
+// 具体的装饰类
+class DecoratorPhoneA : public DecoratorPhone
+{
+public:
+	DecoratorPhoneA(Phone *phone) : DecoratorPhone(phone) {}
+	void ShowDecorate() { DecoratorPhone::ShowDecorate(); AddDecorate(); }
+private:
+	void AddDecorate() { cout << "增加挂件" << endl; } // 增加的装饰
+};
+
+// 具体的装饰类
+class DecoratorPhoneB : public DecoratorPhone
+{
+public:
+	DecoratorPhoneB(Phone *phone) : DecoratorPhone(phone) {}
+	void ShowDecorate() { DecoratorPhone::ShowDecorate(); AddDecorate(); }
+private:
+	void AddDecorate() { cout << "屏幕贴膜" << endl; } // 增加的装饰
+};
+
+// 客户使用方式：
+
+int main()
+{
+	Phone *pPohone = new NokiaPhone("6300");
+	Phone *dpa = new DecoratorPhoneA(pPohone); // 装饰，增加挂件
+	Phone *dpb = new DecoratorPhoneB(dpa);    // 装饰，屏幕贴膜
+	dpb->ShowDecorate();
+
+	delete dpa;
+	delete dpb;
+	delete pPohone;
+	return 0;
+}
+
+/*
+运行结果:
+6300的装饰
+增加挂件
+屏幕贴膜
+*/
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43twt9/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xrm7q/)·edited 5 days ago
+
+### 装饰模式(Decorator Pattern)
+
+> 结构型模式，共六种：
+> 1.适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+已经开发完毕的对象，后期由于业务需要，对旧的对象需要扩展特别多的功能，这时候使用给对象动态地添加新的状态或者行为（即装饰模式）方法，而不是使用子类静态继承。
+
+引入装饰模式的原因 ：
+
+由于若有很多个功能，这么多功能 可能会出现各种组合，而每个组合都要对应一个类，这是指数级的类的数量增长（因为我们要扩展不应直接修改类，所以采取继承 而不是改变原有类）
+
+这样会因为几个功能而需要添加很多类 如 per1 继承 A B C D 后变为产生类pa pb pc pd ，之后又出现了一个e 需要继续增加pe 继承出pae pbe pce pde
+甚至pabcde pade 等等 这时就需要装饰模式了
+动态的给一个对象增加额外的职责功能 它也可以**解决部分的多继承问题** 注意仅仅是部分
+
+可能有人说将所有新功能加进原来的类中 但是不要忘记了我们设计的原则：
+尽量使用扩展而不使用改变 即开放封闭原则 所以我们不能简单的这样做
+
+此模式的最大优点是把类中的装饰功能从类中移除，简化了原来的类 有效的把核心职责和装饰功能分开，而且可以去除相关类中的重复的装饰逻辑
+
+UML图:
+[https://i.imgur.com/ZgwMK6Q.png](https://i.imgur.com/ZgwMK6Q.png)
+
+```
+/*******************************************
+* 装饰者模式  演示   2014.5.12             *
+* by hnust_xiehonghao                      *
+********************************************/
+
+#include <iostream>
+using namespace std;
+
+//坦克抽象类 component
+class Tank
+{
+public:
+
+	virtual void shot()
+	{
+		cout << "向我开炮！" << endl;
+	}
+};
+
+//Concrete Component  
+class T50 :public Tank //具体的一种坦克 型号为T50 也可以有很多其它种类的坦克
+{
+public:
+	void shot()
+	{
+		cout << "T50开炮" << endl;
+	}
+};
+
+//Decorator   
+class Decorator : public Tank//此处不应认为是is_a关系 而应该认为是like_a
+{
+protected:  //这里必须是protect哦  因为其它继承Decorator的类要用
+	Tank *tank;//has_a的关系
+
+public:
+	void decorator(Tank *_tank)
+	{
+		this->tank = _tank;
+	}
+	void shot()
+	{
+		tank->shot();
+	}
+};
+
+//DecoratorA  加大火力
+class BigShot :public  Decorator
+{
+
+public:
+	void shot()
+	{
+		//为了死的安详，我想被大火力打死，另外请静音
+		cout << "大火力准备完毕" << endl;
+		tank->shot();
+
+	}
+};
+
+//DecoratorB     消音
+class SilentShot :public Decorator
+{
+
+public:
+	void shot()
+	{
+		//为保证是被炮打死 而不是震死，请静音
+		cout << "消音完毕" << endl;
+		tank->shot();
+	}
+};
+
+int main()
+{
+	Tank *pTank = new T50();
+	Decorator *pDecorator = new Decorator();
+	pDecorator->decorator(pTank);
+
+	BigShot *pBig = new BigShot();
+	pBig->decorator(pDecorator);
+
+	SilentShot *pBigSlient = new SilentShot();
+	pBigSlient->decorator(pBig);
+
+	pBigSlient->shot();
+
+	return 0;
+}
+
+/*
+运行结果:
+消音完毕
+大火力准备完毕
+T50开炮
+*/
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43twvn/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xrrk7/)
+
+* * *
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xrrlf/)
+
+* * *
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xrrmv/)
+
+* * *
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xrrot/)
+
+* * *
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xrrqa/)
+
+* * *
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xrrsh/)
+
+* * *
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xrspz/)·edited 5 days ago
+
+# 外观模式(Facade Pattern)
+
+> 结构型模式，共六种：
+> 1.适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+外部与一个子系统的通信必须通过一个统一的外观对象进行，为子系统中的一组接口提供一个一致的界面，外观模式定义了一个高层接口，这个接口使得这一子系统更加容易使用。
+外观模式又称为门面模式，它是一种对象结构型模式。
+
+外观模式包含如下角色：
+
+Facade: 外观角色
+SubSystem:子系统角色
+
+UML图:
+[https://i.imgur.com/o6agw9I.png](https://i.imgur.com/o6agw9I.png)
+
+* * *
+
+外观模式应该是用的很多的一种模式，特别是当一个系统很复杂时，系统提供给客户的是一个简单的对外接口，而把里面复杂的结构都封装了起来。客户只需使用这些简单接口就能使用这个系统，而不需要关注内部复杂的结构。
+
+DP一书的定义：
+为子系统中的一组接口提供一个一致的界面， 外观模式定义了一个高层接口，这个接口使得这一子系统更加容易使用。
+举个编译器的例子，假设编译一个程序需要经过四个步骤：
+词法分析、语法分析、中间代码生成、机器码生成。
+学过编译都知道，每一步都很复杂。对于编译器这个系统，就可以使用外观模式。可以定义一个高层接口，比如名为Compiler的类，里面有一个名为Run的函数。客户只需调用这个函数就可以编译程序，至于Run函数内部的具体操作，客户无需知道。
+下面给出UML图，以编译器为实例。
+[https://i.imgur.com/3NKKsZS.png](https://i.imgur.com/3NKKsZS.png)
+
+```
+#include <iostream>
+using namespace std;
+
+class Scanner
+{
+public:
+	void Scan() { cout << "词法分析" << endl; }
+};
+
+class Parser
+{
+public:
+	void Parse() { cout << "语法分析" << endl; }
+};
+
+class GenMidCode
+{
+public:
+	void GenCode() { cout << "产生中间代码" << endl; }
+};
+
+class GenMachineCode
+{
+public:
+	void GenCode() { cout << "产生机器码" << endl; }
+};
+
+//高层接口
+class Compiler
+{
+public:
+	void Run()
+	{
+		Scanner scanner;
+		Parser parser;
+		GenMidCode genMidCode;
+		GenMachineCode genMacCode;
+		scanner.Scan();
+		parser.Parse();
+		genMidCode.GenCode();
+		genMacCode.GenCode();
+	}
+};
+
+// 客户使用方式：
+int main()
+{
+	Compiler compiler;
+	compiler.Run();
+	return 0;
+}
+
+```
+
+根据“单一职责原则”，在软件中将一个系统划分为若干个子系统有利于降低整个系统的复杂性，一个常见的设计目标是使子系统间的通信和相互依赖关系达到最小，而达到该目标的途径之一就是引入一个外观对象，它为子系统的访问提供了一个简单而单一的入口。
+
+[https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/facade.html](https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/facade.html)
+
+[https://blog.csdn.net/wuzhekai1985/article/details/6667564](https://blog.csdn.net/wuzhekai1985/article/details/6667564)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tx0q/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xsahp/)·edited 5 days ago
+
+* * *
+
+### 适配器模式和装饰者模式的区别：
+
+*   适配器将一个对象包装起来以改变其接口；
+
+*   装饰者将一个对象包装起来以增强新的行为和责任；
+
+*   而外观将一群对象包装起来以简化其接口
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xt8s2/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xt9d3/)
+
+placeholder
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xt9go/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xt9ie/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[5 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e3xt9kh/)
+
+# 享元模式(Flyweight Pattern)
+
+> 结构型模式，共六种：
+> 1.适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+面向对象技术可以很好地解决一些灵活性或可扩展性问题，但在很多情况下需要在系统中增加类和对象的个数。
+当对象数量太多时，将导致运行代价过高，带来性能下降等问题。享元模式正是为解决这一类问题而诞生的。
+享元模式通过共享技术实现相同或相似对象的重用。
+
+在享元模式中可以共享的相同内容称为内部状态(IntrinsicState)，而那些需要外部环境来设置的不能共享的内容称为外部状态(Extrinsic State)，由于区分了内部状态和外部状态，因此可以通过设置不同的外部状态使得相同的对象可以具有一些不同的特征，而相同的内部状态是可以共享的。
+
+在享元模式中通常会出现工厂模式，需要创建一个享元工厂来负责维护一个享元池(Flyweight Pool)用于存储具有相同内部状态的享元对象。
+在享元模式中共享的是享元对象的内部状态，外部状态需要通过环境来设置。在实际使用中，能够共享的内部状态是有限的，因此享元对象一般都设计为较小的对象，它所包含的内部状态较少，这种对象也称为细粒度对象。享元模式的目的就是使用共享技术来实现大量细粒度对象的复用。
+
+享元模式包含如下角色：
+
+*   Flyweight: 抽象享元类
+
+*   ConcreteFlyweight: 具体享元类
+
+*   UnsharedConcreteFlyweight: 非共享具体享元类
+
+*   FlyweightFactory: 享元工厂类
+
+UML图:
+[https://i.imgur.com/wGsNPc7.png](https://i.imgur.com/wGsNPc7.png)
+
+### 享元模式的优点
+
+享元模式的优点在于它可以极大减少内存中对象的数量，使得相同对象或相似对象在内存中只保存一份。
+享元模式的外部状态相对独立，而且不会影响其内部状态，从而使得享元对象可以在不同的环境中被共享。
+
+### 享元模式的缺点
+
+享元模式使得系统更加复杂，需要分离出内部状态和外部状态，这使得程序的逻辑复杂化。
+为了使对象可以共享，享元模式需要将享元对象的状态外部化，而读取外部状态使得运行时间变长。
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43ph2h/)·edited 2 days ago
+
+## 用享元模式。其定义为：运用共享技术有效地支持大量细粒度的对象。
+
+UML图:
+[https://i.imgur.com/sQUUr59.png](https://i.imgur.com/sQUUr59.png)
+
+```
+// 享元模式(Flyweight Pattern)
+
+/*
+举个围棋的例子，围棋的棋盘共有361格，即可放361个棋子。现在要实现一个围棋程序，该怎么办呢？
+
+首先要考虑的是棋子棋盘的实现，可以定义一个棋子的类，成员变量包括棋子的颜色、形状、位置等信息，
+另外再定义一个棋盘的类，成员变量中有个容器，用于存放棋子的对象。下面给出代码表示：
+棋子的定义，当然棋子的属性除了颜色和位置，还有其他的，这里略去。这两个属性足以说明问题。
+*/
+
+#include <iostream>
+#include <vector>
+
+using namespace  std;
+
+//棋子颜色
+enum PieceColor { BLACK, WHITE };
+
+//棋子位置
+struct PiecePos
+{
+	int x;
+	int y;
+	PiecePos(int a, int b) : x(a), y(b) {}
+};
+
+//棋子定义
+class Piece
+{
+protected:
+	PieceColor m_color; //颜色
+public:
+	Piece(PieceColor color) : m_color(color) {}
+	~Piece() {}
+	virtual void Draw() {}
+};
+
+class BlackPiece : public Piece
+{
+public:
+	BlackPiece(PieceColor color) : Piece(color) {}
+	~BlackPiece() {}
+	void Draw() { cout << "绘制一颗黑棋\n"; }
+};
+
+class WhitePiece : public Piece
+{
+public:
+	WhitePiece(PieceColor color) : Piece(color) {}
+	~WhitePiece() {}
+	void Draw() { cout << "绘制一颗白棋\n"; }
+};
+
+// 相应棋盘的定义为：
+
+class PieceBoard
+{
+private:
+	vector<PiecePos> m_vecPos; //存放棋子的位置
+	Piece *m_blackPiece;       //黑棋棋子
+	Piece *m_whitePiece;       //白棋棋子
+	string m_blackName;
+	string m_whiteName;
+
+public:
+	PieceBoard(string black, string white) : m_blackName(black), m_whiteName(white)
+	{
+		m_blackPiece = NULL;
+		m_whitePiece = NULL;
+	}
+	~PieceBoard() { delete m_blackPiece; delete m_whitePiece; }
+
+	void SetPiece(PieceColor color, PiecePos pos)
+	{
+		if (color == BLACK)
+		{
+			if (m_blackPiece == NULL)  //只有一颗黑棋
+				m_blackPiece = new BlackPiece(color);
+			cout << m_blackName << "在位置(" << pos.x << ',' << pos.y << ")";
+			m_blackPiece->Draw();
+		}
+		else
+		{
+			if (m_whitePiece == NULL)
+				m_whitePiece = new WhitePiece(color);
+			cout << m_whiteName << "在位置(" << pos.x << ',' << pos.y << ")";
+			m_whitePiece->Draw();
+		}
+		m_vecPos.push_back(pos);
+	}
+};
+
+// 客户的使用方式
+
+int main()
+{
+	PieceBoard pieceBoard("A", "B");
+	pieceBoard.SetPiece(BLACK, PiecePos(4, 4));
+	pieceBoard.SetPiece(WHITE, PiecePos(4, 16));
+	pieceBoard.SetPiece(BLACK, PiecePos(16, 4));
+	pieceBoard.SetPiece(WHITE, PiecePos(16, 16));
+	return 0;
+}
+
+// -----------------------------------------------------------
+//  以下为不使用 享元模式 的方式
+// 享元的方案，容器中仅仅存放了位置属性，
+// 而底下的则是棋子对象。显然，享元模式 的方案大大减少了对于空间的需求
+// -----------------------------------------------------------
+
+/*
+
+//棋子颜色
+enum PieceColor { BLACK, WHITE };
+
+//棋子位置
+struct PiecePos
+{
+	int x;
+	int y;
+	PiecePos(int a, int b) : x(a), y(b) {}
+};
+
+//棋子定义
+class Piece
+{
+protected:
+	PieceColor m_color; //颜色
+	PiecePos m_pos;     //位置
+public:
+	Piece(PieceColor color, PiecePos pos) : m_color(color), m_pos(pos) {}
+	~Piece() {}
+	virtual void Draw() {}
+};
+
+class BlackPiece : public Piece
+{
+public:
+	BlackPiece(PieceColor color, PiecePos pos) : Piece(color, pos) {}
+	~BlackPiece() {}
+	void Draw() { cout << "绘制一颗黑棋" << endl; }
+};
+
+class WhitePiece : public Piece
+{
+public:
+	WhitePiece(PieceColor color, PiecePos pos) : Piece(color, pos) {}
+	~WhitePiece() {}
+	void Draw() { cout << "绘制一颗白棋" << endl; }
+};
+
+// 棋盘的定义：
+class PieceBoard
+{
+private:
+	vector<Piece*> m_vecPiece; //棋盘上已有的棋子
+	string m_blackName; //黑方名称
+	string m_whiteName; //白方名称
+
+public:
+	PieceBoard(string black, string white) : m_blackName(black), m_whiteName(white) {}
+	~PieceBoard() { Clear(); }
+
+	void SetPiece(PieceColor color, PiecePos pos) //一步棋，在棋盘上放一颗棋子
+	{
+		Piece * piece = NULL;
+		if (color == BLACK) //黑方下的
+		{
+			piece = new BlackPiece(color, pos); //获取一颗黑棋
+			cout << m_blackName << "在位置(" << pos.x << ',' << pos.y << ")";
+			piece->Draw(); //在棋盘上绘制出棋子
+		}
+		else
+		{
+			piece = new WhitePiece(color, pos);
+			cout << m_whiteName << "在位置(" << pos.x << ',' << pos.y << ")";
+			piece->Draw();
+		}
+		m_vecPiece.push_back(piece);  //加入容器中
+	}
+	void Clear() //释放内存
+	{
+		int size = m_vecPiece.size();
+		for (int i = 0; i < size; i++)
+			delete m_vecPiece[i];
+	}
+};
+
+// 客户的使用方式
+
+int main()
+{
+	PieceBoard pieceBoard("A", "B");
+	pieceBoard.SetPiece(BLACK, PiecePos(4, 4));
+	pieceBoard.SetPiece(WHITE, PiecePos(4, 16));
+	pieceBoard.SetPiece(BLACK, PiecePos(16, 4));
+	pieceBoard.SetPiece(WHITE, PiecePos(16, 16));
+	return 0;
+}
+
+*/
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tx61/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rfhl/)·edited 2 days ago
+
+# 代理模式(Proxy Pattern)
+
+> 结构型模式，共六种：
+> 1.适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+为其他对象提供一种代理以控制对这个对象的访问。有四种常用的情况：
+（1）远程代理，（2）虚代理，（3）保护代理，（4）智能引用。
+
+代理模式包含如下角色：
+
+Subject: 抽象主题角色
+Proxy: 代理主题角色
+RealSubject: 真实主题角色
+
+UML图:
+[https://i.imgur.com/6Z7VBdZ.png](https://i.imgur.com/6Z7VBdZ.png)
+
+时序图:
+[https://i.imgur.com/4PF9Miq.png](https://i.imgur.com/4PF9Miq.png)
+
+* * *
+
+考虑一个可以在文档中嵌入图形对象的文档编辑器。有些图形对象的创建开销很大。
+但是打开文档必须很迅速，因此我们在打开文档时应**避免一次性创建所有开销很大的对象**。
+这里就可以运用代理模式，在打开文档时，并不打开图形对象，而是打开图形对象的代理以替代真实的图形。
+待到真正需要打开图形时，仍由代理负责打开。这是[DP]一书上的给的例子。
+下面给出代理模式的UML图。
+[https://i.imgur.com/1Im7oYh.png](https://i.imgur.com/1Im7oYh.png)
+
+* * *
+
+```
+// 代理模式(Proxy Pattern)
+
+#include <string>
+#include <iostream>
+using namespace std;
+
+class Image
+{
+public:
+	Image(string name) : m_imageName(name) {}
+	virtual ~Image() {}
+	virtual void Show() {}
+
+protected:
+	string m_imageName;
+};
+
+class BigImage : public Image
+{
+public:
+	BigImage(string name) :Image(name) {}
+	~BigImage() {}
+	void Show() { cout << "Show big image : " << m_imageName << endl; }
+};
+
+class BigImageProxy : public Image
+{
+private:
+	BigImage *m_bigImage;
+
+public:
+	BigImageProxy(string name) :Image(name), m_bigImage(0) {}
+	~BigImageProxy() { delete m_bigImage; }
+
+	void Show()
+	{
+		if (m_bigImage == NULL)
+			m_bigImage = new BigImage(m_imageName);
+		m_bigImage->Show();
+	}
+};
+
+// 客户调用：
+
+int main()
+{
+	Image *image = new BigImageProxy("proxy.jpg"); //代理
+	image->Show(); //需要时由代理负责打开
+	delete image;
+	return 0;
+}
+
+```
+
+### 代理模式的优点
+
+代理模式能够协调调用者和被调用者，在一定程度上降低了系 统的耦合度。
+
+远程代理使得客户端可以访问在远程机器上的对象，远程机器 可能具有更好的计算性能与处理速度，可以快速响应并处理客户端请求。
+
+虚拟代理通过使用一个小对象来代表一个大对象，可以减少系 统资源的消耗，对系统进行优化并提高运行速度。
+
+保护代理可以控制对真实对象的使用权限。
+
+### 代理模式的缺点
+
+由于在客户端和真实主题之间增加了代理对象，因此 有些类型的代理模式可能会造成请求的处理速度变慢。
+
+实现代理模式需要额外的工作，有些代理模式的实现 非常复杂。
+
+### 根据代理模式的使用目的，常见的代理模式有以下几种类型：
+
+远程(Remote)代理：为一个位于不同的地址空间的对象提供一个本地 的代理对象，这个不同的地址空间可以是在同一台主机中，也可是在 另一台主机中，远程代理又叫做大使(Ambassador)。
+
+虚拟(Virtual)代理：如果需要创建一个资源消耗较大的对象，先创建一个消耗相对较小的对象来表示，真实对象只在需要时才会被真正创建。
+
+Copy-on-Write代理：它是虚拟代理的一种，把复制（克隆）操作延迟 到只有在客户端真正需要时才执行。一般来说，对象的深克隆是一个 开销较大的操作，Copy-on-Write代理可以让这个操作延迟，只有对象被用到的时候才被克隆。
+
+保护(Protect or Access)代理：控制对一个对象的访问，可以给不同的用户提供不同级别的使用权限。
+
+缓冲(Cache)代理：为某一个目标操作的结果提供临时的存储空间，以便多个客户端可以共享这些结果。
+
+防火墙(Firewall)代理：保护目标不让恶意用户接近。
+
+同步化(Synchronization)代理：使几个用户能够同时使用一个对象而没有冲突。
+
+智能引用(Smart Reference)代理：当一个对象被引用时，提供一些额外的操作，如将此对象被调用的次数记录下来等。
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rfpz/)·edited 1 day ago
+
+# 代理模式(Proxy Pattern) 虚代理
+
+> 结构型模式，共六种：
+> 1.适配器模式 2\. 桥接模式 3\. 装饰模式 4\. 外观模式 5\. 享元模式 6\. 代理模式
+
+虚拟代理：
+当一个对象的加载十分耗费资源的时候，虚拟代理的优势就非常明显地体现出来了。
+虚拟代理模式是一种内存节省技术，那些占用大量内存或处理复杂的对象将推迟到使用它的时候才创建。
+
+远程代理：
+远程代理可以将网络的细节隐藏起来，使得客户端不必考虑网络的存在。客户完全可以认为被代理的远程业务对象是局域的而不是远程的，而远程代理对象承担了大部分的网络通信工作。
+
+```
+// 代理模式(Proxy Pattern) 虚代理  
+
+/*
+虚代理的情况，下面给两个智能引用的例子。
+一个是C++中的auto_ptr，另一个是smart_ptr。自己实现了一下。
+给出auto_ptr的代码实现：
+*/
+
+/*
+https://blog.csdn.net/wuzhekai1985/article/details/6669219
+auto_ptr 类就是一个代理，客户只需操作auto_prt的对象，而不需要与被代理的指针pointee打交道。
+auto_ptr 的好处在于为动态分配的对象提供异常安全。
+因为它用一个对象存储需要被自动释放的资源，然后依靠对象的析构函数来释放资源。
+这样客户就不需要关注资源的释放，由auto_ptr 对象自动完成。
+实现中的一个关键就是重载了解引用操作符和箭头操作符，从而使得auto_ptr的使用与真实指针类似。
+
+我们知道C++中没有垃圾回收机制，可以通过智能指针来弥补，
+下面给出智能指针的一种实现，采用了引用计数的策略。
+*/
+
+template<class T>
+class auto_ptr {
+public:
+	explicit auto_ptr(T *p = 0) : pointee(p) {}
+	auto_ptr(auto_ptr<T>& rhs) : pointee(rhs.release()) {}
+	~auto_ptr() { delete pointee; }
+
+	auto_ptr<T>& operator=(auto_ptr<T>& rhs)
+	{
+		if (this != &rhs) reset(rhs.release());
+		return *this;
+	}
+
+	T& operator*() const { return *pointee; }
+	T* operator->() const { return pointee; }
+	T* get() const { return pointee; }
+
+	T* release()
+	{
+		T *oldPointee = pointee;
+		pointee = 0;
+		return oldPointee;
+	}
+
+	void reset(T *p = 0)
+	{
+		if (pointee != p) {
+			delete pointee;
+			pointee = p;
+		}
+	}
+
+private:
+	T *pointee;
+};
+
+template <typename T>
+class smart_ptr
+{
+public:
+	smart_ptr(T *p = 0) : pointee(p), count(new size_t(1)) { }  //初始的计数值为1
+	smart_ptr(const smart_ptr &rhs) :
+		pointee(rhs.pointee), count(rhs.count) { ++*count; } //拷贝构造函数，计数加1
+
+	~smart_ptr() { decr_count(); }              //析构，计数减1，减到0时进行垃圾回收，即释放空间
+
+	smart_ptr& operator= (const smart_ptr& rhs) //重载赋值操作符
+	{
+		//给自身赋值也对，因为如果自身赋值，计数器先减1，再加1，并未发生改变
+		++*count;
+		decr_count();
+		pointee = rhs.pointee;
+		count = rhs.count;
+		return *this;
+	}
+
+	//重载箭头操作符和解引用操作符，未提供指针的检查
+	T *operator->() { return pointee; }
+	const T *operator->() const { return pointee; }
+	T &operator*() { return *pointee; }
+	const T &operator*() const { return *pointee; }
+	size_t get_refcount() { return *count; } //获得引用计数器值
+
+private:
+	T *pointee;       //实际指针，被代理  
+	size_t *count;    //引用计数器
+
+	void decr_count() //计数器减1
+	{
+		if (--*count == 0)
+		{
+			delete pointee;
+			delete count;
+		}
+	}
+};
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rzgp/)
+
+[https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/proxy.html](https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/proxy.html)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43txmv/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rmgg/)
+
+
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rmj8/)
+
+
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rmox/)
+
+
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rmra/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rmtu/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rmvi/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43rmze/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43s0ld/)
+
+# 行为型模式
+
+行为型模式(Behavioral Pattern)是对在不同的对象之间划分责任和算法的抽象化。
+
+行为型模式不仅仅关注类和对象的结构，而且重点关注它们之间的相互作用。
+
+通过行为型模式，可以更加清晰地划分类与对象的职责，并研究系统在运行时实例对象 之间的交互。在系统运行时，对象并不是孤立的，它们可以通过相互通信与协作完成某些复杂功能，一个对象在运行时也将影响到其他对象的运行。
+
+行为型模式分为类行为型模式和对象行为型模式两种：
+
+*   类行为型模式：
+    类的行为型模式使用继承关系在几个类之间分配行为，类行为型模式主要通过多态等方式来分配父类与子类的职责。
+
+*   对象行为型模式：
+    对象的行为型模式则使用对象的聚合关联关系来分配行为，对象行为型模式主要是通过对象关联等方式来分配两个或多个类的职责。根据“合成复用原则”，系统中要尽量使用关联关系来取代继承关系，因此大部分行为型设计模式都属于对象行为型设计模式。
+
+* * *
+
+包含模式
+
+职责链模式(Chain of Responsibility)
+重要程度：3
+命令模式(Command)
+重要程度：4
+解释器模式(Interpreter)
+重要程度：1
+迭代器模式(Iterator)
+重要程度：5
+中介者模式(Mediator)
+重要程度：2
+
+备忘录模式(Memento)
+重要程度：2
+观察者模式(Observer)
+重要程度：5
+状态模式(State)
+重要程度：3
+策略模式(Strategy)
+重要程度：4
+模板方法模式(Template Method)
+重要程度：3
+访问者模式(Visitor)
+重要程度：1
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43s1rh/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43s293/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43s2fh/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43t95g/)·edited 1 day ago
+
+# 命令模式(Command Pattern)
+
+> 行为型模式
+
+将一个请求封装为一个对象，从而使我们可用不同的请求对客户进行参数化；
+对请求排队或者记录请求日志，以及支持可撤销的操作。
+命令模式是一种对象行为型模式，其别名为动作(Action)模式或事务(Transaction)模式。
+
+命令模式包含如下角色：
+
+Command: 抽象命令类
+ConcreteCommand: 具体命令类
+Invoker: 调用者
+Receiver: 接收者
+Client:客户类
+
+* * *
+
+UML图:
+[https://i.imgur.com/NkGfmT1.png](https://i.imgur.com/NkGfmT1.png) 时序图:
+[https://i.imgur.com/yix33C8.jpg](https://i.imgur.com/yix33C8.jpg)
+
+命令模式的本质是对命令进行封装，将发出命令的责任和执行命令的责任分割开。
+
+每一个命令都是一个操作：请求的一方发出请求，要求执行一个操作；接收的一方收到请求，并执行操作。命令模式允许请求的一方和接收的一方独立开来，使得请求的一方不必知道接收请求的一方的接口，更不必知道请求是怎么被接收，以及操作是否被执行、何时被执行，以及是怎么被执行的。命令模式使请求本身成为一个对象，这个对象和其他对象一样可以被存储和传递。命令模式的关键在于引入了抽象命令接口，且发送者针对抽象命令接口编程，只有实现了抽象命令接口的具体命令才能与接收者相关联。
+
+### 优点
+
+类间解耦
+可扩展性
+
+结合其他模式更加优秀：结合责任链模式实现命令族解析任务；结合模板方法，减少Command子类的膨胀
+
+### 缺点
+
+命令越多，类约膨胀，需要慎用
+
+### 使用场景
+
+只要认为是命令的地方。
+eg GUI 开发，按钮，DOS命令模拟，触发反馈机制的处理等
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tblo/)·edited 1 day ago
+
+## 命令模式(Command Pattern) 示例:
+
+> 行为型模式
+
+UML图:
+[https://i.imgur.com/n5kht6B.png](https://i.imgur.com/n5kht6B.png)
+
+来源:
+[https://blog.csdn.net/lcl_data/article/details/9080909](https://blog.csdn.net/lcl_data/article/details/9080909)
+
+执行的时序首先是调用者类，然后是命令类，最后是接收者类。
+也就是说一条命令的执行被分成了三步，它的耦合度要比把所有的操作都封装到一个类中要低的多，而这也正是命令模式的精髓所在：
+
+把命令的调用者与执行者分开，使双方不必关心对方是如何操作的。
+
+```
+#include <iostream>  
+#include <string>
+#include <vector>
+using namespace std;
+
+/*
+我们去餐厅吃饭，我们是通过服务员来点菜，具体是谁来做这些菜和他们什么时候完成的这些菜，其实我们都不知道。
+抽象之，我们是“菜单请求者”，厨师是“菜单实现者”，2者之间是松耦合的，
+我们对这些菜的其他一些请求比如“撤销，重做”等，我们也不知道是谁在做。
+其实这就是 Command 模式。
+将一个请求封装为一个对象，从而使你可用不同的请求对客户进行参数化；
+对请求排队或记录请求日志，以及支持可撤消的操作。[GOF 《设计模式》]
+*/
+
+// Barbecue 烧烤烤肉烤肉野餐烤肉宴
+// Mutton 羊肉羔羊肉涮羊肉羊肉类
+
+#define SAFE_DELETE(p) if (p) { delete p; p = NULL; }
+
+/*烤肉师傅类，只负责烤串工作*/
+class Barbecuer
+{
+public:
+	void BakeMutton() { cout << "Bake mutton" << endl; }
+	void BakeChickenWing() { cout << "Bake ChickenWing" << endl; }
+};
+
+/*抽象命令类：是执行具体操作的接口*/
+class Command
+{
+public:
+	Command() {}
+	Command(Barbecuer *receiver) :p_receiver(receiver) {}
+	virtual void ExecuteCommand() = 0; //执行命令
+protected:
+	Barbecuer *p_receiver;
+};
+
+/*具体命令类:烤羊肉串命令*/
+class BakeMuttonCommand :public Command
+{
+public:
+	BakeMuttonCommand(Barbecuer *receiver) { p_receiver = receiver; }
+	void ExecuteCommand() { p_receiver->BakeMutton(); }
+};
+
+/*具体命令类:烤鸡翅串命令*/
+class BakeChickenWingCommand :public Command
+{
+public:
+	BakeChickenWingCommand(Barbecuer *receiver) { p_receiver = receiver; }
+	void ExecuteCommand()
+	{
+		p_receiver->BakeChickenWing();
+	}
+};
+
+/*服务员类*/
+class Waiter
+{
+public:
+	void SetOrder(Command *command)
+	{
+		p_commandList.push_back(command);
+		cout << "增加烤肉命令" << endl;
+	}
+
+	void Notify()
+	{
+		vector<Command*>::iterator i;
+		for (i = p_commandList.begin(); i != p_commandList.end(); ++i)
+			(*i)->ExecuteCommand();
+	}
+
+private:
+	vector<Command *>p_commandList; //这里相当于一个命令对象队列
+};
+
+int main(int argc, char *argv[])
+{
+	//生成烤肉师傅、服务员、订单对象
+	Barbecuer *p_cook = new Barbecuer();	// 烤肉师傅
+	Waiter *p_waiter = new Waiter(); // 服务员
+
+	Command *p_mutton = new BakeMuttonCommand(p_cook); // 羊肉
+	Command *p_chickenwing = new BakeChickenWingCommand(p_cook); // 鸡翅
+
+	//将订单对象推送到命令队列
+	p_waiter->SetOrder(p_mutton);
+	p_waiter->SetOrder(p_chickenwing);
+
+	//服务员通知烤肉师傅具体订单
+	p_waiter->Notify();
+
+	SAFE_DELETE(p_cook);
+	SAFE_DELETE(p_mutton);
+	SAFE_DELETE(p_chickenwing);
+	SAFE_DELETE(p_waiter);
+
+	return 0;
+}
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43txrt/)·edited 17 hours ago
+
+### 命令模式(Command Pattern) 示例:
+
+```
+#include <iostream>
+
+using namespace std;
+
+// 命令接口
+class Command
+{
+public:
+    virtual void execute()=0;
+};
+
+// 调用者
+class Invoker
+{
+public:
+    Invoker(Command* command)
+    {
+        this->command = command;
+    }
+    void action()
+    {
+        command->execute();
+    }
+private:
+    Command* command;
+};
+
+// 接收者
+class Receiver
+{
+public:
+    Receiver()
+    {
+    }
+    void action()
+    {
+        cout<<"Action has been taken."<<endl;
+    }
+};
+
+// 具体的命令
+class ConcreteCommand: public Command
+{
+public:
+    ConcreteCommand(Receiver* receiver)
+    {
+        this->receiver = receiver;
+    }
+    void execute()
+    {
+        receiver->action();
+    }
+private:
+    Receiver* receiver;
+};
+
+// 客户
+int main(int argc, char* argv[])
+{
+    // 客户要告知命令发给谁？
+    Receiver* receiver = new Receiver();
+
+    // 客户要告知命令是什么？
+    Command* command = new ConcreteCommand(receiver);
+
+    // 客户把命令给调用者
+    Invoker* invoker = new Invoker(command);
+
+    // 调用者通过Command接口把命令交给接收者执行
+    invoker->action();
+
+    return 0;
+}
+
+```
+
+
+
+
+
+
+
+
+1 point·[17 hours ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e480rkp/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tlbv/)
+
+
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tlfk/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tlkd/)
+
+.
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tmkf/)
+
+# 中介者模式(Mediator Pattern)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43tsuv/)·edited 1 day ago
+
+# 中介者模式(Mediator Pattern)
+
+> 行为型模式
+
+中介者模式(Mediator Pattern)定义：用一个中介对象来封装一系列的对象交互，中介者使各对象不需要显式地相互引用，从而使其耦合松散，而且可以独立地改变它们之间的交互。中介者模式又称为调停者模式，它是一种对象行为型模式。
+
+中介者模式的例子很多，大到联合国安理会，小到房屋中介，都扮演了中间者的角色，协调各方利益。
+
+## 中介者模式包含如下角色：
+
+Mediator: 抽象中介者
+
+*   ConcreteMediator: 具体中介者
+
+*   Colleague: 抽象同事类
+
+*   ConcreteColleague: 具体同事类
+
+UML图:
+[https://i.imgur.com/cRsWYh1.png](https://i.imgur.com/cRsWYh1.png)
+时序图:
+[https://i.imgur.com/mb4VW7g.png](https://i.imgur.com/mb4VW7g.png)
+
+本文就以租房为例子，如果没有房屋中介，那么房客要自己找房东，而房东也要自己找房客，非常不方便。有了房屋中介机构就方便了，房东可以把要出租的房屋信息放到中介机构，而房客可以去中介机构咨询。
+
+在软件中，就是多个对象之间需要通信，如果没有中介，对象就需要知道其他对象，最坏情况下，可能需要知道所有其他对象，而有了中介对象就方便多了，对象只需与中介对象通信，而不用知道其他的对象。这就是中介者模式，下面以租房为例，给出中介者模式的UML图。
+[https://i.imgur.com/WEIXUJY.png](https://i.imgur.com/WEIXUJY.png)
+
+```
+#include <string>
+#include <iostream>
+using namespace std;
+
+class Mediator;
+
+// 抽象人
+class Person
+{
+protected:
+	Mediator *m_pMediator; //中介
+
+public:
+	virtual void SetMediator(Mediator *pMediator) {} // 设置中介
+	virtual void SendMessage(string message) {}    // 向中介发送信息
+	virtual void GetMessage(string message) {}     // 从中介获取信息
+};
+
+// 抽象中介机构
+class Mediator
+{
+public:
+	virtual void Send(string message, Person *person) {}
+	virtual void SetRenter(Person *A) {}  // 设置其中一方
+	virtual void SetLandlord(Person *B) {}
+};
+
+// 租房者
+class Renter : public Person
+{
+public:
+	void SetMediator(Mediator *pMediator) { m_pMediator = pMediator; }
+
+	void SendMessage(string message) { m_pMediator->Send(message, this); }
+	void GetMessage(string message) { cout << "租房者收到信息" << message; }
+};
+
+// 房东
+class Landlord : public Person
+{
+public:
+	void SetMediator(Mediator *pMediator) { m_pMediator = pMediator; }
+	void SendMessage(string message) { m_pMediator->Send(message, this); }
+	void GetMessage(string message) { cout << "房东收到信息：" << message; }
+};
+
+// 房屋中介
+class HouseMediator : public Mediator
+{
+private:
+	Person *m_pRenter;	// 租房者
+	Person *m_pLandlord;	// 房东
+
+public:
+	HouseMediator() : m_pRenter(0), m_pLandlord(0) {}
+	void SetRenter(Person *A) { m_pRenter = A; }
+	void SetLandlord(Person *B) { m_pLandlord = B; }
+
+	void Send(string message, Person *person)
+	{
+		if (person == m_pRenter)	// 租房者给房东发信息
+			m_pLandlord->GetMessage(message); // 房东收到信息
+		else
+			m_pRenter->GetMessage(message);
+	}
+};
+
+// 客户使用方式如下：
+
+int main()
+{
+	Mediator *pMediator = new HouseMediator();	// 房屋中介
+	Person *pPerson1 = new Renter();    // 租房者
+	Person *pPerson2 = new Landlord();  // 房东
+
+	pMediator->SetRenter(pPerson1);
+	pMediator->SetLandlord(pPerson2);
+
+	pPerson1->SetMediator(pMediator);
+	pPerson2->SetMediator(pMediator);
+
+	pPerson1->SendMessage("我想在南京路附近租套房子，价格800元一个月\n");
+	pPerson2->SendMessage("出租房子：南京路100号，70平米，1000元一个月\n");
+
+	delete pPerson1; delete pPerson2; delete pMediator;
+
+	return 0;
+}
+
+```
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43txuz/)
+
+> GitHub源码:
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+
+
+
+
+
+
+
+1 point·[2 days ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e43ty16/)
+
+# > GitHub源码 <
+
+## [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns)
+
+Use VS2015
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45k0ax/)
+
+
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45k0fh/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45k0jz/)
+
+.
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45k1ox/)·edited 1 day ago
+
+# 观察者模式(Observer Pattern)
+
+> 行为型模式
+
+定义对象间的一种一对多依赖关系，使得每当一个对象状态发生改变时，其相关依赖对象皆得到通知并被自动更新。
+
+观察者模式又叫做发布-订阅（Publish/Subscribe）模式、模型-视图（Model/View）模式、源-监听器（Source/Listener）模式或从属者（Dependents）模式。
+
+观察者模式是一种对象行为型模式。
+
+观察者模式包含如下角色：
+
+Subject: 目标
+ConcreteSubject: 具体目标
+Observer: 观察者
+ConcreteObserver: 具体观察者
+
+UML图:
+[https://i.imgur.com/JhK4W1W.png](https://i.imgur.com/JhK4W1W.png)
+时序图:
+[https://i.imgur.com/wm0ntiB.png](https://i.imgur.com/wm0ntiB.png)
+
+* * *
+
+可以举个博客订阅的例子，当博主发表新文章的时候，即博主状态发生了改变，那些订阅的读者就会收到通知，然后进行相应的动作，比如去看文章，或者收藏起来。
+
+博主与读者之间存在种一对多的依赖关系。下面给出相应的UML图设计。
+[https://i.imgur.com/Fhpb6lW.png](https://i.imgur.com/Fhpb6lW.png)
+
+可以看到博客类中有一个观察者链表（即订阅者），当博客的状态发生变化时，通过Notify成员函数通知所有的观察者，告诉他们博客的状态更新了。而观察者通过Update成员函数获取博客的状态信息。代码实现不难，下面给出C++的一种实现。
+
+```
+
+/*
+当博主发表新文章的时候，即博主状态发生了改变，那些订阅的读者就会收到通知，
+然后进行相应的动作，比如去看文章，或者收藏起来。
+博主与读者之间存在种一对多的依赖关系。
+*/
+
+#include <iostream>
+#include <list>
+#include <string>
+using namespace std;
+
+//观察者
+class Observer
+{
+public:
+	Observer() {}
+	virtual ~Observer() {}
+	virtual void Update() {}
+};
+
+//博客
+class Blog
+{
+public:
+	Blog() {}
+	virtual ~Blog() {}
+	void Attach(Observer *observer) { m_observers.push_back(observer); }	 //添加观察者
+	void Remove(Observer *observer) { m_observers.remove(observer); }        //移除观察者
+	void Notify() //通知观察者
+	{
+		list<Observer*>::iterator iter = m_observers.begin();
+		for (; iter != m_observers.end(); iter++)
+			(*iter)->Update();
+	}
+	virtual void SetStatus(string s) { m_status = s; } //设置状态
+	virtual string GetStatus() { return m_status; }    //获得状态
+
+private:
+	list<Observer* > m_observers; //观察者链表
+
+protected:
+	string m_status; //状态
+};
+
+//具体博客类
+class BlogCSDN : public Blog
+{
+private:
+	string m_name; //博主名称
+public:
+	BlogCSDN(string name) : m_name(name) {}
+	~BlogCSDN() {}
+	void SetStatus(string s) { m_status = "CSDN通知 : " + m_name + s; } //具体设置状态信息
+	string GetStatus() { return m_status; }
+};
+
+//具体观察者
+class ObserverBlog : public Observer
+{
+private:
+	string m_name;  //观察者名称
+	Blog *m_blog;   //观察的博客，当然以链表形式更好，就可以观察多个博客
+public:
+	ObserverBlog(string name, Blog *blog) : m_name(name), m_blog(blog) {}
+	~ObserverBlog() {}
+	void Update()  //获得更新状态
+	{
+		string status = m_blog->GetStatus();
+		cout <<m_name << "-------" << status << endl;
+	}
+};
+
+// 客户的使用方式：
+int main()
+{
+	Blog *blog = new BlogCSDN("wuzhekai1985");
+	Observer *observer1 = new ObserverBlog("tutupig", blog);
+	blog->Attach(observer1);
+	blog->SetStatus("发表设计模式C++实现（15）——观察者模式");
+	blog->Notify();
+	delete blog; delete observer1;
+	return 0;
+}
+
+```
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u8le/)
+
+> > GitHub源码 < [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns) Use VS2015
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45kpjx/)·edited 1 day ago
+
+## 观察者模式(Observer Pattern) 优缺点
+
+> 行为型模式
+
+### 观察者模式的优点
+
+观察者模式可以实现表示层和数据逻辑层的分离，并定义了稳定的消息更新传递机制，抽象了更新接口，使得可以有各种各样不同的表示层作为具体观察者角色。
+
+观察者模式在观察目标和观察者之间建立一个抽象的耦合。
+
+观察者模式支持广播通信。
+
+观察者模式符合“开闭原则”的要求。
+
+### 观察者模式的缺点
+
+如果一个观察目标对象有很多直接和间接的观察者的话，将所有的观察者都通知到会花费很多时间。
+
+如果在观察者和观察目标之间有循环依赖的话，观察目标会触发它们之间进行循环调用，可能导致系统崩溃。
+
+观察者模式没有相应的机制让观察者知道所观察的目标对象是怎么发生变化的，而仅仅只是知道观察目标发生了变化。
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45kpob/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45kpri/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45kpyn/)
+
+
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45ktw5/)·edited 1 day ago
+
+# 状态模式(State Pattern)
+
+> 行为型模式
+
+允许一个对象在其内部状态改变时改变它的行为，对象看起来似乎修改了它的类。其别名为状态对象(Objects for States)，状态模式是一种对象行为型模式。
+
+状态模式包含如下角色：
+
+Context: 环境类
+State: 抽象状态类
+ConcreteState: 具体状态类
+
+UML图:
+[https://i.imgur.com/V383qFb.png](https://i.imgur.com/V383qFb.png)
+
+它有两种使用情况：
+
+*   （1）一个对象的行为取决于它的状态, 并且它必须在运行时刻根据状态改变它的行为。
+
+*   （2）一个操作中含有庞大的多分支的条件语句，且这些分支依赖于该对象的状态。
+
+* * *
+
+本文的例子为第一种情况，以战争为例，假设一场战争需经历四个阶段：前期、中期、后期、结束。当战争处于不同的阶段，战争的行为是不一样的，也就说战争的行为取决于所处的阶段，而且随着时间的推进是动态变化的。下面给出相应的UML图。[https://i.imgur.com/SmhevOv.png](https://i.imgur.com/SmhevOv.png)
+
+```
+#include <iostream>
+using namespace std;
+
+class War;
+
+class State
+{
+public:
+	virtual void Prophase() {}	// 前期
+	virtual void Metaphase() {}	// 中期
+	virtual void Anaphase() {}	// 后期
+	virtual void End() {}			// 结束
+	virtual void CurrentState(War *war) {} // 当前状态
+};
+
+// 战争
+class War
+{
+private:
+	State *m_pState;  //目前状态
+	int m_nDays;      //战争持续时间
+
+public:
+	War(State *state) : m_pState(state), m_nDays(0) {}
+	~War() { delete m_pState; }
+
+	int GetDays() { return m_nDays; }
+	void SetDays(int days) { m_nDays = days; }
+	void SetState(State *state) { delete m_pState; m_pState = state; }
+	void GetState() { m_pState->CurrentState(this); }
+};
+
+// 给出具体的状态类：
+
+// 战争结束
+class EndState : public State
+{
+public:
+	void End(War *war) //结束阶段的具体行为
+	{
+		cout << "战争结束" << endl;
+	}
+	void CurrentState(War *war) { End(war); }
+};
+
+// 后期
+class AnaphaseState : public State
+{
+public:
+	void Anaphase(War *war) //后期的具体行为
+	{
+		if (war->GetDays() < 30)
+			cout << "第" << war->GetDays() << "天：战争后期，双方拼死一搏" << endl;
+		else
+		{
+			war->SetState(new EndState());
+			war->GetState();
+		}
+	}
+	void CurrentState(War *war) { Anaphase(war); }
+};
+
+// 中期
+class MetaphaseState : public State
+{
+public:
+	void Metaphase(War *war) //中期的具体行为
+	{
+		if (war->GetDays() < 20)
+			cout << "第" << war->GetDays() <<
+					"天：战争中期，进入相持阶段，双发各有损耗" << endl;
+		else
+		{
+			war->SetState(new AnaphaseState());
+			war->GetState();
+		}
+	}
+	void CurrentState(War *war) { Metaphase(war); }
+};
+
+// 前期
+class ProphaseState : public State
+{
+public:
+	void Prophase(War *war)  //前期的具体行为
+	{
+		if (war->GetDays() < 10)
+			cout << "第" << war->GetDays() <<
+				"天：战争初期，双方你来我往，互相试探对方" << endl;
+		else
+		{
+			war->SetState(new MetaphaseState());
+			war->GetState();
+		}
+	}
+	void CurrentState(War *war) { Prophase(war); }
+};
+
+// 测试案例
+int main()
+{
+	War *pWar = new War(new ProphaseState());
+	for (int i = 1; i < 40; i += 5)
+	{
+		pWar->SetDays(i);
+		pWar->GetState();
+	}
+	delete pWar;
+	return 0;
+}
+
+```
+
+来源:
+[https://blog.csdn.net/wuzhekai1985/article/details/6675799](https://blog.csdn.net/wuzhekai1985/article/details/6675799)
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u8qq/)
+
+> GitHub源码
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns) Use VS2015
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45l443/)
+
+--
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45l4dq/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45l4iv/)
+
+holder
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45l4p7/)
+
+space
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45l55w/)
+
+space
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45l5c9/)
+
+GFW
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45laj3/)·edited 1 day ago
+
+# 策略模式(Strategy Pattern)
+
+> 行为型模式
+
+定义一系列算法，将每一个算法封装起来，并让它们可以相互替换。策略模式让算法独立于使用它的客户而变化，也称为政策模式(Policy)。
+
+策略模式包含如下角色：Context: 环境类Strategy: 抽象策略类ConcreteStrategy: 具体策略类
+
+UML图:
+[https://i.imgur.com/v1jrGQI.png](https://i.imgur.com/v1jrGQI.png)
+
+时序图:
+[https://i.imgur.com/czBYGvE.png](https://i.imgur.com/czBYGvE.png)
+
+也就是说这些算法所完成的功能一样，对外的接口一样，只是各自实现上存在差异。用策略模式来封装算法，效果比较好。
+
+下面以高速缓存（Cache）的替换算法为例，实现策略模式。
+
+什么是Cache的替换算法呢？简单解释一下， 当发生Cache缺失时，Cache控制器必须选择Cache中的一行，并用欲获得的数据来替换它。所采用的选择策略就是Cache的替换算法。下面给出相应的UML图。
+
+[https://i.imgur.com/JB8XKa4.png](https://i.imgur.com/JB8XKa4.png)
+
+ReplaceAlgorithm是一个抽象类，定义了算法的接口，有三个类继承自这个抽象类，也就是具体的算法实现。Cache类中需要使用替换算法，因此维护了一个 ReplaceAlgorithm的对象。这个UML图的结构就是策略模式的典型结构。下面根据UML图，给出相应的实现。
+
+首先给出替换算法的定义。
+
+```
+//抽象接口
+class ReplaceAlgorithm
+{
+public:
+	virtual void Replace() = 0;
+};
+//三种具体的替换算法
+class LRU_ReplaceAlgorithm : public ReplaceAlgorithm
+{
+public:
+	void Replace() { cout<<"Least Recently Used replace algorithm"<<endl; }
+};
+
+class FIFO_ReplaceAlgorithm : public ReplaceAlgorithm
+{
+public:
+	void Replace() { cout<<"First in First out replace algorithm"<<endl; }
+};
+class Random_ReplaceAlgorithm: public ReplaceAlgorithm
+{
+public:
+	void Replace() { cout<<"Random replace algorithm"<<endl; }
+};
+
+```
+
+接着给出Cache的定义，这里很关键，Cache的实现方式直接影响了客户的使用方式，其关键在于如何指定替换算法。
+
+`方式一`：直接通过参数指定，传入一个特定算法的指针。
+
+```
+//Cache需要用到替换算法
+class Cache
+{
+private:
+	ReplaceAlgorithm *m_ra;
+public:
+	Cache(ReplaceAlgorithm *ra) { m_ra = ra; }
+	~Cache() { delete m_ra; }
+	void Replace() { m_ra->Replace(); }
+};
+
+```
+
+如果用这种方式，客户就需要知道这些算法的具体定义。只能以下面这种方式使用，可以看到暴露了太多的细节。
+
+```
+
+int main()
+{
+	Cache cache(new LRU_ReplaceAlgorithm()); //暴露了算法的定义
+	cache.Replace();
+	return 0;
+}
+
+```
+
+* * *
+
+`方式二`：也是直接通过参数指定，只不过不是传入指针，而是一个标签。这样客户只要知道算法的相应标签即可，而不需要知道算法的具体定义。
+
+```
+
+//Cache需要用到替换算法
+enum RA {LRU, FIFO, RANDOM}; //标签
+class Cache
+{
+private:
+	ReplaceAlgorithm *m_ra;
+public:
+	Cache(enum RA ra)
+	{
+		if(ra == LRU)
+			m_ra = new LRU_ReplaceAlgorithm();
+		else if(ra == FIFO)
+			m_ra = new FIFO_ReplaceAlgorithm();
+		else if(ra == RANDOM)
+			m_ra = new Random_ReplaceAlgorithm();
+		else
+			m_ra = NULL;
+	}
+	~Cache() { delete m_ra; }
+	void Replace() { m_ra->Replace(); }
+};
+
+```
+
+相比方式一，这种方式用起来方便多了。其实这种方式将简单工厂模式与策略模式结合在一起，算法的定义使用了策略模式，而Cache的定义其实使用了简单工厂模式。
+
+```
+
+int main()
+{
+	Cache cache(LRU); //指定标签即可
+	cache.Replace();
+	return 0;
+}
+
+```
+
+* * *
+
+上面两种方式，构造函数都需要形参。构造函数是否可以不用参数呢？下面给出第三种实现方式。
+
+* * *
+
+`方式三`：利用模板实现。算法通过模板的实参指定。当然了，还是使用了参数，只不过不是构造函数的参数。在策略模式中，参数的传递难以避免，客户必须指定某种算法。
+
+```
+//Cache需要用到替换算法
+template <class RA>
+class Cache
+{
+private:
+	RA m_ra;
+public:
+	Cache() { }
+	~Cache() { }
+	void Replace() { m_ra.Replace(); }
+};
+
+```
+
+使用方式如下：
+
+```
+
+int main()
+{
+	Cache<Random_ReplaceAlgorithm> cache; //模板实参
+	cache.Replace();
+	return 0;
+}
+
+```
+
+来源: [http://blog.csdn.net/wuzhekai1985](http://blog.csdn.net/wuzhekai1985)
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u96d/)
+
+> GitHub源码
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns) Use VS2015
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45stjq/)·edited 1 day ago
+
+### 策略模式(Strategy Pattern)
+
+> 行为型模式
+
+策略模式是一个比较容易理解和使用的设计模式，策略模式是对算法的封装，它把算法的责任和算法本身分割开，委派给不同的对象管理。
+策略模式通常把一个系列的算法封装到一系列的策略类里面，作为一个抽象策略类的子类。用一句话来说，就是“准备一组算法，并将每一个算法封装起来，使得它们可以互换”。
+
+在策略模式中，应当由客户端自己决定在什么情况下使用什么具体策略角色。
+
+策略模式仅仅封装算法，提供新算法插入到已有系统中，以及老算法从系统中“退休”的方便，策略模式并不决定在何时使用何种算法，算法的选择由客户端来决定。这在一定程度上提高了系统的灵活性，但是客户端需要理解所有具体策略类之间的区别，以便选择合适的算法，这也是策略模式的缺点之一，在一定程度上增加了客户端的使用难度。
+
+### 策略模式的优点
+
+*   策略模式提供了对“开闭原则”的完美支持，用户可以在不修改原有系统的基础上选择算法或行为，也可以灵活地增加新的算法或行为。
+
+*   策略模式提供了管理相关的算法族的办法。
+
+*   策略模式提供了可以替换继承关系的办法。
+
+*   使用策略模式可以避免使用多重条件转移语句。
+
+### 策略模式的缺点
+
+*   客户端必须知道所有的策略类，并自行决定使用哪一个策略类。
+
+*   策略模式将造成产生很多策略类，可以通过使用享元模式在一定程度上减少对象的数量。
+
+在以下情况下可以使用策略模式：
+
+*   如果在一个系统里面有许多类，它们之间的区别仅在于它们的行为，那么使用策略模式可以动态地让一个对象在许多行为中选择一种行为。
+
+*   一个系统需要动态地在几种算法中选择一种。
+
+*   如果一个对象有很多的行为，如果不用恰当的模式，这些行为就只好使用多重的条件选择语句来实现。
+
+*   不希望客户端知道复杂的、与算法相关的数据结构，在具体策略类中封装算法和相关的数据结构，提高算法的保密性与安全性。
+
+[http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/strategy.html](http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/strategy.html)
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u1f1/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u1i6/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u1ju/)
+
+..
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u1m0/)
+
+. .
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u1q3/)
+
+..
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u3al/)·edited 1 day ago
+
+# 职责链模式(Chain of Responsibility)
+
+> 行为型模式
+
+职责链模式：行为型模式,使多个对象都有机会处理请求，从而避免请求的发送者和接收者之间的耦合关系。
+
+将这些对象连成一条链，并沿着这条链传递该请求，直到有一个对象处理它为止。
+
+其思想很简单，考虑员工要求加薪。公司的管理者一共有三级，总经理、总监、经理，如果一个员工要求加薪，应该向主管的经理申请，如果加薪的数量在经理的职权内，那么经理可以直接批准，否则将申请上交给总监。
+总监的处理方式也一样，总经理可以处理所有请求。
+这就是典型的职责链模式，请求的处理形成了一条链，直到有一个对象处理请求。给出这个例子的UML图。
+[https://i.imgur.com/Ta933fi.png](https://i.imgur.com/Ta933fi.png)
+
+```
+// 职责链模式ChainofResponsibilityPattern.cpp
+
+#include <string>
+#include <iostream>
+using namespace std;
+
+//抽象管理者
+class Manager
+{
+protected:
+	Manager *m_manager;
+	string m_name;
+public:
+	Manager(Manager *manager, string name) :m_manager(manager), m_name(name) {}
+	virtual void DealWithRequest(string name, int num) {}
+};
+
+//经理
+class CommonManager : public Manager
+{
+public:
+	CommonManager(Manager *manager, string name) :Manager(manager, name) {}
+	void DealWithRequest(string name, int num)
+	{
+		if (num < 500) //经理职权之内
+		{
+			cout << "经理" << m_name << "批准" << name
+				<< "加薪" << num << "元" << endl << endl;
+		}
+		else
+		{
+			cout << "经理" << m_name << "无法处理，交由总监处理" << endl;
+			m_manager->DealWithRequest(name, num);
+		}
+	}
+};
+
+//总监
+class Majordomo : public Manager
+{
+public:
+	Majordomo(Manager *manager, string name) :Manager(manager, name) {}
+	void DealWithRequest(string name, int num)
+	{
+		if (num < 1000) //总监职权之内
+		{
+			cout << "总监" << m_name << "批准" << name
+				<< "加薪" << num << "元" << endl << endl;
+		}
+		else
+		{
+			cout << "总监" << m_name << "无法处理，交由总经理处理" << endl;
+			m_manager->DealWithRequest(name, num);
+		}
+	}
+};
+
+//总经理
+class GeneralManager : public Manager
+{
+public:
+	GeneralManager(Manager *manager, string name) :Manager(manager, name) {}
+	void DealWithRequest(string name, int num)  //总经理可以处理所有请求
+	{
+		cout << "总经理" << m_name << "批准" << name
+			<< "加薪" << num << "元" << endl << endl;
+	}
+};
+
+// 客户调用方式为：
+
+int main()
+{
+	Manager *general = new GeneralManager(NULL, "A"); //设置上级，总经理没有上级
+	Manager *majordomo = new Majordomo(general, "B"); //设置上级
+	Manager *common = new CommonManager(majordomo, "C"); //设置上级
+
+	common->DealWithRequest("D", 300);   //员工D要求加薪
+	common->DealWithRequest("E", 600);
+	common->DealWithRequest("F", 1000);
+	delete common; delete majordomo; delete general;
+
+	return 0;
+}
+
+```
+
+* * *
+
+### 模式的优缺点
+
+**优点**
+
+*   1、降低耦合度。它将请求的发送者和接受者解耦。
+
+*   2、简化了对象。使得对象不需要知道链的结构。
+
+*   3、增强给对象指派职责的灵活性。通过改变链内的成员或者调动它们的次序，允许动态地新增或者删除责任。
+
+*   4、增加新的请求处理类很方便。
+
+**缺点**
+
+*   1、不能保证请求一定被接收。
+
+*   2、系统性能将受到一定影响，而且在进行代码调试时不太方便；可能会造成循环调用。
+
+*   3、可能不容易观察运行时的特征，有碍于除错。
+
+### 模式适用场景
+
+*   1、有多个对象可以处理同一个请求，具体哪个对象处理该请求由运行时刻自动确定。
+
+*   2、在不明确指定接收者的情况下，向多个对象中的一个提交一个请求。
+
+*   3、可动态指定一组对象处理请求。
+
+*   1、职责链模式将请求的发送者和接受者解耦了。客户端不需要知道请求处理者的明确信息，甚至不需要知道链的结构，它只需要将请求进行发送即可。
+
+*   2、职责链模式能够非常方便的动态增加新职责或者删除职责。
+
+*   3、客户端发送的请求可能会得不到处理。
+
+*   4、处理者不需要知道链的结构，只需要明白他的后续者是谁就可以了。这样就简化了系统中的对象。
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u8a2/)
+
+代码出处: [https://blog.csdn.net/wuzhekai1985/article/details/6673892](https://blog.csdn.net/wuzhekai1985/article/details/6673892)
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u9db/)
+
+> GitHub源码
+> [https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns](https://github.com/yulinxx/DesignPatternsBasic/tree/master/DesignPatterns) Use VS2015
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u9j5/)
+
+--
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u9kf/)
+
+* * *
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45u9m6/)
+
+.
+
+
+
+
+
+
+
+
+1 point·[1 day ago](https://www.reddit.com/user/yulinxx/comments/95rw3j/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F_design_pattern/e45ukrw/)·edited 1 day ago
+
+# 备忘录模式（Memento Pattern）
+
+> 行为型模式
+
+在不破坏封装性的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。
+样以后就可将该对象恢复到原先保存的状态[DP]。
+备忘录模式（Memento Pattern）又叫做快照模式（Snapshot Pattern）或Token模式，是GoF的23种设计模式之一，属于行为模式。
+
+举个简单的例子，我们玩游戏时都会保存进度，所保存的进度以文件的形式存在。这样下次就可以继续玩，而不用从头开始。
+这里的进度其实就是游戏的内部状态，而这里的文件相当于是在游戏之外保存状态。
+这样，下次就可以从文件中读入保存的进度，从而恢复到原来的状态。这就是备忘录模式。
+
+给出备忘录模式的UML图，以保存游戏的进度为例。
+[https://i.imgur.com/tW3Wtbc.png](https://i.imgur.com/tW3Wtbc.png)
+
+```
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+//需保存的信息
+class Memento
+{
+public:
+	int m_vitality; //生命值
+	int m_attack;   //进攻值
+	int m_defense;  //防守值
+public:
+	Memento(int vitality, int attack, int defense) :
+		m_vitality(vitality), m_attack(attack), m_defense(defense) {}
+	Memento& operator=(const Memento &memento)
+	{
+		m_vitality = memento.m_vitality;
+		m_attack = memento.m_attack;
+		m_defense = memento.m_defense;
+		return *this;
+	}
+};
+
+//游戏角色
+class GameRole
+{
+private:
+	int m_vitality;
+	int m_attack;
+	int m_defense;
+public:
+	GameRole() : m_vitality(100), m_attack(100), m_defense(100) {}
+	//保存进度，只与Memento对象交互，并不牵涉到Caretake
+	Memento Save()
+	{
+		Memento memento(m_vitality, m_attack, m_defense);
+		return memento;
+	}
+
+	//载入进度，只与Memento对象交互，并不牵涉到Caretake
+	void Load(Memento memento)  
+	{
+		m_vitality = memento.m_vitality;
+		m_attack = memento.m_attack;
+		m_defense = memento.m_defense;
+	}
+	void Show() { cout << "vitality : " << m_vitality << ", attack : "
+		<< m_attack << ", defense : " << m_defense << endl; }
+	void Attack() { m_vitality -= 10; m_attack -= 10;  m_defense -= 10; }
+};
+
+//保存的进度库
+class Caretake
+{
+public:
+	Caretake() {}
+	void Save(Memento menento) { m_vecMemento.push_back(menento); }
+	Memento Load(int state) { return m_vecMemento[state]; }
+private:
+	vector<Memento> m_vecMemento;
+};
+
+//测试案例
+int main()
+{
+	Caretake caretake;
+	GameRole role;
+	role.Show();   //初始值
+	caretake.Save(role.Save()); //保存状态
+	role.Attack();
+	role.Show();  //进攻后
+	role.Load(caretake.Load(0)); //载入状态
+	role.Show();  //恢复到状态0
+	return 0;
+}
+
+```
+
+
+
+### 历史版本: [https://archive.fo/wLlrf](https://archive.fo/wLlrf)
+
+2018年8月15日 01:33:51 UTC
